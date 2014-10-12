@@ -17,4 +17,6 @@
 /*.sublime-workspace
 azure-upload-settings.json
 
+/data/csu
+/data/okrsky
 /data/tiles
