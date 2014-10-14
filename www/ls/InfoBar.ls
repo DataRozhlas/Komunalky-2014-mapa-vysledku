@@ -103,10 +103,8 @@ window.ig.InfoBar = class InfoBar
         ..attr \class \hlasu
         ..append \span
           ..attr \class \absolute
-          ..html " 2432 hl."
         ..append \span
           ..attr \class \relative
-          ..html "24 %"
       ..append \div
         ..attr \class \bar
         ..style \background-color (d, i) -> partyColors[i]
