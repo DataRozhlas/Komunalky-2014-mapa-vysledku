@@ -7,7 +7,7 @@ window.ig.map = map = L.map do
     maxZoom: 14,
     zoom: 8,
     center: [49.78, 15.5]
-    maxBounds: [[48.4,11.8], [51.2,18.9]]
+    maxBounds: [[48.3,11.6], [51.3,19.1]]
 dataLayers = {}
 window.ig.displayedType = "obce"
 layerDefs =
