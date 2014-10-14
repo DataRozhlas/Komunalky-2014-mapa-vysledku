@@ -47,16 +47,16 @@ labelLayer = L.tileLayer do
 displayedId = null
 window.ig.utfgrid = grid = new L.UtfGrid "../data/tiles/meta/{z}/{x}/{y}.json", useJsonP: no
   ..on \mouseover ({data}:e) ->
-    displayedId := data?0
+    displayedId := "#{data[0]}_#{data[*-1]}"
     window.ig.displayData data
   ..on \click ({data}) ->
     return unless data
     return unless data.3
-    if displayedId == data.0
-      window.ig.showKandidatka data[0], data[1]
+    if displayedId == "#{data[0]}_#{data[*-1]}"
+      window.ig.showKandidatka data[0], data[1], data[*-1]
     else
       window.ig.displayData data
-      displayedId := data.0
+      displayedId := "#{data[0]}_#{data[*-1]}"
 
 map.on \zoomend ->
   z = map.getZoom!
