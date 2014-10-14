@@ -66,34 +66,3 @@ setOutline = (iczuj) ->
     color: '#000'
   selectedOutline := L.geoJson data, style
     ..addTo window.ig.map
-
-setView = (hash) ->
-  [iczuj, party] = hash.slice 1 .split '|'
-  return unless iczuj.length
-  iczuj = parseInt iczuj, 10
-  <~ suggester.downloadSuggestions
-  obec = suggester.suggestions.filter (.id == iczuj) .0
-  return unless obec
-  if obec
-    setOutline iczuj
-    return if window.ig.hashChanged
-    {lat, lon, nazev} = obec
-    latlng = L.latLng [lat, lon]
-    window.ig.map.setView latlng, 12
-    window.ig.showKandidatka iczuj, nazev, party
-    queueIterations = 0
-    checkQueue = ->
-      try
-        {data} = window.ig.utfgrid._objectForEvent {latlng: latlng}
-      if data
-        window.ig.displayData data
-      else
-        ++queueIterations
-        setTimeout checkQueue, 100 if queueIterations < 100
-    checkQueue!
-
-if window.location.hash
-  setView that
-
-window.onhashchange = ->
-  setView window.location.hash
