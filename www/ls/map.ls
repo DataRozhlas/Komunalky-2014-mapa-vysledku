@@ -65,12 +65,12 @@ map.on \zoomend ->
     map
       ..addLayer baseLayer
       ..addLayer labelLayer
-    layers.forEach (.layer.setOpacity 0.7)
+    layers.forEach (.setOpacity 0.7)
   else if z <= 9 && map.hasLayer baseLayer
     map
       ..removeLayer baseLayer
       ..removeLayer labelLayer
-    layers.forEach (.layer.setOpacity 1)
+    layers.forEach (.setOpacity 1)
 currentParty = "winners"
 typy =
   * typ: "obce"
@@ -93,7 +93,7 @@ selectLayer = ->
   map.addLayer layer
   currentLayer := {layer}
 
-d3.select mapElement .append \div
+d3.select \body .append \div
   ..attr \class \layer-selector
   ..append \select
     ..on \change ->
