@@ -20,7 +20,7 @@ layerDefs =
   * id: \sz      name: "Zelení"
   * id: \top     name: "TOP 09"
   * id: \cp      name: "Piráti"
-
+layers = []
 for definition in layerDefs
   dataLayers["obce-#{definition.id}"] = L.tileLayer do
     * "../data/tiles/obce-#{definition.id}-2014/{z}/{x}/{y}.png"
@@ -31,6 +31,7 @@ for definition in layerDefs
     * "../data/tiles/mcmo-#{definition.id}-2014/{z}/{x}/{y}.png"
     * attribution: '<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/" target = "_blank">CC BY-NC-SA 3.0 CZ</a> <a target="_blank" href="http://rozhlas.cz">Rozhlas.cz</a>, data <a target="_blank" href="http://www.volby.cz">ČSÚ</a>'
       zIndex: 2
+  layers.push dataLayers["obce-#{definition.id}"], dataLayers["mcmo-#{definition.id}"]
 
 
 baseLayer = L.tileLayer do
