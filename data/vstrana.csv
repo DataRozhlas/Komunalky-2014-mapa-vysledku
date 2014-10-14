@@ -1,0 +1,867 @@
+ns1:VSTRANA	ns1:NAZEVCELK	ns1:NAZEV_STRV	ns1:ZKRATKAV30	ns1:ZKRATKAV8	ns1:POCSTR_SLO
+1	Křesťanská a demokratická unie - Československá strana lidová	Křesťan.a demokrat.unie-Českosl.strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1
+2	Česká strana národně sociální	Česká strana národně sociální	Česká strana národně sociální	ČSNS	1
+5	Strana zelených	Strana zelených	Strana zelených	SZ	1
+7	Česká strana sociálně demokratická	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1
+9	Nezávislá iniciativa (NEI)	Nezávislá iniciativa (NEI)	Nezávislá iniciativa (NEI)	NEI	1
+11	Sdružení pro republiku-Republikánská strana Československa	Sdružení pro republiku-Republikán.strana Českosl.	Sdruž.pro rep.-Republ.str.Čsl.	SPR-RSČ	1
+12	Romská občanská iniciativa ČR	Romská občanská iniciativa ČR	Romská občanská iniciativa ČR	ROI ČR	1
+13	Občanská demokratická aliance	Občanská demokratická aliance	Občanská demokratická aliance	ODA	1
+14	Republikánská unie	Republikánská unie	Republikánská unie	RU	1
+20	Strana za životní jistoty	Strana za životní jistoty	Strana za životní jistoty	SŽJ	1
+21	Republikánská strana zemědělského a malorolnického lidu	Republikán.str.zemědělského a malorolnického lidu	Rep.str.zeměd.a maloroln.lidu	RSZML	1
+22	Agrární strana	Agrární strana	Agrární strana	AS	1
+24	Konzervativní strana	Konzervativní strana	Konzervativní strana	KONS	1
+25	Celostátní aktiv občanů	Celostátní aktiv občanů	Celostátní aktiv občanů	CAO	1
+28	Demokratická strana Československa	Demokratická strana Československa	Demokratická strana Českoslov.	DSČ	1
+29	Strana svobodných demokratů	Strana svobodných demokratů	Strana svobodných demokratů	SSD	1
+32	Českomoravská unie středu	Českomoravská unie středu	Českomoravská unie středu	ČMUS	1
+34	Strana moravského venkova	Strana moravského venkova	Strana moravského venkova	SMV	1
+39	Levá alternativa - hnutí za demokratický a samosprávný socialismus	Levá alternativa-hnutí za demokrat.a samospr.soc.	Levá alternativa	LA	1
+40	Klub angažovaných nestraníků	Klub angažovaných nestraníků	Klub angažovaných nestraníků	KAN	1
+41	Asociace Radikálů za Spojené státy evropské	Asociace Radikálů za Spojené státy evropské	Asociace Radik.za Sp.st.evrop.	AR	1
+42	Panevropská unie Čech a Moravy	Panevropská unie Čech a Moravy	Panevropská unie Čech a Moravy	PEUČM	1
+43	Pravá alternativa	Pravá alternativa	Pravá alternativa	PA	1
+44	Národně sociální strana - Československá strana národně socialistická	Národně sociální str.-Českosl.strana nár.social.	Národ.soc.str.-Čs.str.nár.soc.	NSS-ČSNS	1
+45	Strana drobných podnikatelů	Strana drobných podnikatelů	Strana drobných podnikatelů	SDP	1
+46	Moravská národní strana	Moravská národní strana	Moravská národní strana	MNS	1
+47	Komunistická strana Čech a Moravy	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1
+48	Hnutí 90	Hnutí 90	Hnutí 90	H 90	1
+49	Hnutí angažovaných Romů	Hnutí angažovaných Romů	Hnutí angažovaných Romů	HAR	1
+51	Národně demokratická strana	Národně demokratická strana	Národně demokratická strana	NDS	1
+53	Občanská demokratická strana	Občanská demokratická strana	Občanská demokratická strana	ODS	1
+55	Koruna Česká (monarchistická strana Čech, Moravy a Slezska)	Koruna Česká (monarch.str.Čech, Moravy a Slezska)	Koruna Česká (monarch.strana)	KČ	1
+58	Česká národní strana	Česká národní strana	Česká národní strana	ČNS	1
+59	Strana zdravotně postižených, důchodců a sociálně slabých občanů	Str.zdrav.postiž.,důchodců a sociálně slab.občanů	Str.zdrav.postiž.,důch.,slab.	SZP-DO	1
+60	Hnutí za sociální spravedlnost	Hnutí za sociální spravedlnost	Hnutí za sociální spravedlnost	HSS	1
+63	Republikáni	Republikáni	Republikáni	REP	1
+64	Strana podnikatelů, živnostníků a rolníků České republiky	Strana podnikatelů, živnostníků a rolníků ČR	Str.podnikat.,živnost.,rolníků	SPŽR	1
+65	Demokraté 92	Demokraté 92	Demokraté 92	D 92	1
+67	Romský národní kongres	Romský národní kongres	Romský národní kongres	RNK	1
+68	Masarykova demokratická strana	Masarykova demokratická strana	Masarykova demokratická strana	MDS	1
+72	COEXISTENTIA	COEXISTENTIA	COEXISTENTIA	COEX	1
+74	Strana demokratického socialismu	Strana demokratického socialismu	Strana demokrat.socialismu	SDS	1
+76	Československá strana socialistická	Československá strana socialistická	Českosl.strana socialistická	ČSS	1
+77	Česká pravice	Česká pravice	Česká pravice	ČP	1
+78	Východoevropské národnostní politické hnutí v ČR	Východoevropské národnostní politické hnutí v ČR	Východoevr.národnost.pol.hnutí	VENPH	1
+79	NE Bruselu - Národní demokracie	NE Bruselu - Národní demokracie	NE Bruselu - Nár. demokracie	ND	1
+80	Nezávislí kandidáti	Nezávislí kandidáti	Nezávislí kandidáti	NK	1
+81	Demokratická unie	Demokratická unie	Demokratická unie	DEU	1
+82	Moravská demokratická strana	Moravská demokratická strana	Moravská demokratická strana	MoDS	1
+83	Moravané	Moravané	Moravané	Moravané	1
+84	Hnutí za samosprávnou demokracii - Společnost pro Moravu a Slezsko	Hnutí za samospr.dem.-Společn.pro Moravu a Slezsko	Hn.za samospr.dem.-Sp.Mor.a Sl	HSD-SMS	1
+85	Pražané Praze	Pražané Praze	Pražané Praze	PP	1
+86	Iniciativa občanů	Iniciativa občanů	Iniciativa občanů	IO	1
+88	NEZÁVISLÍ	NEZÁVISLÍ	NEZÁVISLÍ	NEZ	1
+90	Sdružení nezávislých kandidátů - místní sdružení celkem	Sdruž.nezávislých kandidátů-místní sdružení celkem	Sdruž.nezáv.kand.-míst.celkem	SNK-CELK	1
+91	Sdružení nezávislých kandidátů města České Budějovice	Sdružení nezávislých kandidátů města Č.Budějovice	Sdruž.nezáv.kand.města Č.Buděj	SNK ČB	1
+92	Živnostenská strana	Živnostenská strana	Živnostenská strana	ŽS	1
+93	Komunistická strana Československa	Komunistická strana Československa	Komunistická str.Českosloven.	KSČ	1
+94	Česká volba	Česká volba	Česká volba	ČV	1
+95	Mladí demokraté	Mladí demokraté	Mladí demokraté	MD	1
+96	Hnutí proti kriminalitě	Hnutí proti kriminalitě	Hnutí proti kriminalitě	HPK	1
+98	Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET	Volte Pravý Blok www.cibulka.net	Volte Pr.Blok www.cibulka.net	PB	1
+99	Bez politické příslušnosti	Bez politické příslušnosti	Bez politické příslušnosti	BEZPP	1
+100	Humanistická strana	Humanistická strana	Humanistická strana	HS	1
+101	Strana venkova - spojené občanské síly	Strana venkova - spojené občanské síly	Str.venkova-spoj.občan.síly	SV SOS	1
+102	Unie svobody - Demokratická unie	Unie svobody - Demokratická unie	Unie svobody-Demokratická unie	US-DEU	1
+103	Strana pro otevřenou společnost	Strana pro otevřenou společnost	Str.pro otevřenou společnost	SOS	1
+104	Občanská koalice - Politický klub	Občanská koalice - Politický klub	Občanská koalice-Polit.klub	OK	1
+105	Strana konzervativní smlouvy	Strana konzervativní smlouvy	Strana konzervativní smlouvy	SKS	1
+106	Alternativa 2000	Alternativa 2000	Alternativa 2000	A2000	1
+107	Demokratická liga	Demokratická liga	Demokratická liga	DL	1
+108	Hnutí za prosperitu Brna	Hnutí za prosperitu Brna	Hnutí za prosperitu Brna	HPB	1
+109	Zlínské hnutí nezávislých	Zlínské hnutí nezávislých	Zlínské hnutí nezávislých	ZHN	1
+110	Demokratická regionální strana	Demokratická regionální strana	Demokratická regionální strana	DRS	1
+111	Pravá volba pro Plzeň	Pravá volba pro Plzeň	Pravá volba pro Plzeň	PVP	1
+112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1
+113	Volba pro město	Volba pro město	Volba pro město	VPM	1
+114	Hnutí pro Havířov	Hnutí pro Havířov	Hnutí pro Havířov	HPH	1
+115	Nezávislé sdružení občanů Blanska	Nezávislé sdružení občanů Blanska	Nezáv.sdruž.občanů Blanska	NSOB	1
+116	Občanská liga FORUM	Občanská liga FORUM	Občanská liga FORUM	OLF	1
+117	"""1.Sdružení nezávislých kandidátů Tábor"""	"""1.Sdružení nezávislých kandidátů Tábor"""	"""1.Sdr.nezáv.kandidátů Tábor"""	1.SNK	1
+118	Sdružení pro sport a zdraví	Sdružení pro sport a zdraví	Sdružení pro sport a zdraví	SSZ	1
+119	Unie pro sport a zdraví	Unie pro sport a zdraví	Unie pro sport a zdraví	USZ	1
+120	Aliance nezávislých občanů	Aliance nezávislých občanů	Aliance nezávislých občanů	ANO	1
+121	NÁRODNÍ PROSPERITA	NÁRODNÍ PROSPERITA	NÁRODNÍ PROSPERITA	NP	1
+122	Českobudějovická nezávislá nová volba	Českobudějovická nezávislá nová volba	Českobudějov.nezáv.nová volba	ČbNNV	1
+123	České hnutí za národní jednotu	České hnutí za národní jednotu	České hnutí za národní jednotu	ČHNJ	1
+124	Nové hnutí	Nové hnutí	Nové hnutí	NH	1
+125	Unie pro Evropu	Unie pro Evropu	Unie pro Evropu	UPE	1
+126	Nestraníci pro Moravu	Nestraníci pro Moravu	Nestraníci pro Moravu	NPM	1
+127	Republikáni Miroslava Sládka	Republikáni Miroslava Sládka	Republikáni Miroslava Sládka	RMS	1
+128	"""Akce za skutečnou demokracii"""	"""Akce za skutečnou demokracii"""	"""Akce za skutečnou demokracii"""	AZSD	1
+129	SNK Evropští demokraté	SNK Evropští demokraté	SNK Evropští demokraté	SNK ED	1
+130	Strana svobodných severu	Strana svobodných severu	Strana svobodných severu	SSS	1
+131	Strana občanského porozumění	Strana občanského porozumění	Strana občanského porozumění	SOP	1
+132	Aktiv nezávislých občanů	Aktiv nezávislých občanů	Aktiv nezávislých občanů	ANEO	1
+133	Cesta změny	Cesta změny	Cesta změny	CZ	1
+134	"""Sebeobrana voličů-Váš hlas nepodpoří financování planých řečí, ale zdravotnictví Vašeho obvodu"""	"""Sebeobrana voličů-Váš hlas pro zdravotnictví"""	"""Sebeobrana voličů-Váš hlas"""	SeVo	1
+135	Naděje	Naděje	Naděje	N	1
+136	Tábor 2020	Tábor 2020	Tábor 2020	T2020	1
+137	Strana zdravého rozumu	Strana zdravého rozumu	Strana zdravého rozumu	Rozumní	1
+138	Liberálové.CZ	Liberálové.CZ	Liberálové.CZ	LIB	1
+139	Volba pro budoucnost	Volba pro budoucnost	Volba pro budoucnost	VPB	1
+140	Balbínova poetická strana	Balbínova poetická strana	Balbínova poetická strana	BPS	1
+141	Konzervativní a sociální hnutí	Konzervativní a sociální hnutí	Konzervativní a sociální hnutí	KSH	1
+142	Strana Zdraví Sportu Prosperity	Strana Zdraví Sportu Prosperity	Str.Zdraví Sportu Prosperity	SZSP	1
+143	Spojení demokraté - Sdružení nezávislých	Spojení demokraté - Sdružení nezávislých	Spojení demokraté-Sdruž.nezáv.	SD-SN	1
+144	Věci veřejné	Věci veřejné	Věci veřejné	VV	1
+145	"""Jirkov 21.století"""	"""Jirkov 21.století"""	"""Jirkov 21.století"""	J 21 S	1
+146	Nezávislí pro Prahu	Nezávislí pro Prahu	Nezávislí pro Prahu	NPP	1
+147	MĚSTO LIDEM	MĚSTO LIDEM	MĚSTO LIDEM	ML	1
+148	"""SONOB - sdružení ochrany nájemníků a ostatního bydlení"""	"""SONOB-sdružení ochrany nájemníků a ostat.bydlení"""	"""SONOB-sdruž.ochr.nájemníků"""	SONOB	1
+149	Sociálně demokratická aliance nezávislých	Sociálně demokratická aliance nezávislých	Sociálně demokrat.aliance nez.	SDAN	1
+150	Sdružení za lepší Vrchlabí	Sdružení za lepší Vrchlabí	Sdružení za lepší Vrchlabí	SZLV	1
+151	Helax-Ostrava se baví	Helax-Ostrava se baví	Helax-Ostrava se baví	HOB	1
+152	Národní strana	Národní strana	Národní strana	NS	1
+153	Dělnická strana	Dělnická strana	Dělnická strana	DS	1
+154	Všeobecná občanská strana	Všeobecná občanská strana	Všeobecná občanská strana	VOS	1
+155	DOMOV	DOMOV	DOMOV	DOMOV	1
+156	Dělnická strana sociální spravedlnosti	Dělnická strana sociální spravedlnosti	Dělnic.str.sociální spravedl.	DSSS	1
+157	Demokratická Unie České republiky	Demokratická Unie České republiky	Demokratická Unie České rep.	DEUČR	1
+158	"""Sdružení nestraníků"""	"""Sdružení nestraníků"""	"""Sdružení nestraníků"""	SN	1
+159	Strana práce	Strana práce	Strana práce	SP	1
+160	"""Viktor Kožený - Občanská federální demokracie"""	"""Viktor Kožený - Občanská federální demokracie"""	"""V.Kožený-Občan.feder.demokr."""	"""OFD"""	1
+161	Svobodná občanská samospráva	Svobodná občanská samospráva	Svobodná občanská samospráva	SvOS	1
+162	Správný směr	Správný směr	Správný směr	SPS	1
+163	NEZÁVISLÁ VOLBA	NEZÁVISLÁ VOLBA	NEZÁVISLÁ VOLBA	NV	1
+164	Evropská strana důstojného stáří	Evropská strana důstojného stáří	Evropská str.důstojného stáří	ESDS	1
+165	Strana drobných živnostníků a podnikatelů	Strana drobných živnostníků a podnikatelů	Str.drobn.živnost.a podnikat.	SDŽP	1
+166	STAROSTOVÉ A NEZÁVISLÍ	STAROSTOVÉ A NEZÁVISLÍ	STAROSTOVÉ A NEZÁVISLÍ	STAN	1
+167	Fair play - HNPD	Fair play - HNPD	Fair play - HNPD	HNPD	1
+168	Občanské demokratické hnutí	Občanské demokratické hnutí	Občanské demokratické hnutí	ODH	1
+169	Folklor i Společnost	Folklor i Společnost	Folklor i Společnost	FiS	1
+170	Romská demokratická sociální strana	Romská demokratická sociální strana	Romská demokrat.sociální str.	RDSS	1
+171	STRANA ROVNOST ŠANCÍ	STRANA ROVNOST ŠANCÍ	STRANA ROVNOST ŠANCÍ	SRŠ	1
+172	NEZÁVISLÍ DEMOKRATÉ	NEZÁVISLÍ DEMOKRATÉ	NEZÁVISLÍ DEMOKRATÉ	NEZ/DEM	1
+173	Chci svou šanci	Chci svou šanci	Chci svou šanci	CISN	1
+174	Hnutí pro Těšín	Hnutí pro Těšín	Hnutí pro Těšín	HpT	1
+175	Česká strana národně socialistická	Česká strana národně socialistická	Česká str.národ.socialistická	ČSNS2005	1
+176	Strana občanské sebeobrany	Strana občanské sebeobrany	Strana občanské sebeobrany	S.O.S. PRAHA	1
+177	Zelení	Zelení	Zelení	"""Z"""	1
+178	4 VIZE - www.4vize.cz	4 VIZE - www.4vize.cz	4 vize - www.4vize.cz	4 VIZE	1
+179	Sedma - strana pro Slatiňany, Škrovád, Trpišov, Kunčí, Presy, Podhůru a Kochánovice	Sedma-strana pro obec Slatiňany a její osady	Sedma-str.pro obec Slatiňany	Sedma	1
+180	Klub sociálně demokratické orientace	Klub sociálně demokratické orientace	Klub sociál.demokrat.orientace	KSDO	1
+181	Nestraníci	Nestraníci	Nestraníci	Nestran.	1
+182	Karlovarská občanská alternativa	Karlovarská občanská alternativa	Karlovar.občanská alternativa	KOA	1
+183	Alternativa pro občany	Alternativa pro občany	Alternativa pro občany	AO	1
+184	Hnutí LEPŠÍ ŘEPY	Hnutí LEPŠÍ ŘEPY	Hnutí LEPŠÍ ŘEPY	HLŘ	1
+185	Patrioti - hnutí za lepší Ústí n.L.	Patrioti - Hnutí za lepší Ústí n.L.	Patrioti-Hn.za lepší Ústí n.L.	P-HLÚ	1
+186	Hnutí za lepší bydlení	Hnutí za lepší bydlení	Hnutí za lepší bydlení	HZLB	1
+187	Občansko demokratické sdružení Zlín	Občansko demokratické sdružení Zlín	Občansko demokr.sdružení Zlín	ODSZ	1
+188	SEMILÁCI	SEMILÁCI	SEMILÁCI	PSS	1
+189	Zlínské sdružení živnostníků a podnikatelů	Zlínské sdružení živnostníků a podnikatelů	Zlín.sdruž.živnost.a podnikat.	ZSŽP	1
+190	Mimoňská obroda	Mimoňská obroda	Mimoňská obroda	OHMO	1
+191	MĚSTO I MLÁDEŽI	MĚSTO I MLÁDEŽI	MĚSTO I MLÁDEŽI	MIM	1
+192	HLAVU VZHŮRU - volební blok	HLAVU VZHŮRU - volební blok	HLAVU VZHŮRU - volební blok	HLAVU VZHŮRU	1
+193	Volba pro Mladou Boleslav	Volba pro Mladou Boleslav	Volba pro Mladou Boleslav	VpMB	1
+194	ZVON	ZVON	ZVON	PHZ	1
+195	Hnutí pro Prahu 11	Hnutí pro Prahu 11	Hnutí pro Prahu 11	HPP 11	1
+196	Strana Svobody	Strana Svobody	Strana Svobody	Str.Svob	1
+197	NESPOKOJENÍ OBČANÉ!	NESPOKOJENÍ OBČANÉ!	NESPOKOJENÍ OBČANÉ!	NO!	1
+198	Republikánská strana Čech, Moravy a Slezska	Republikánská strana Čech, Moravy a Slezska	Republ.str.Čech,Moravy a Slez.	RSČMS	1
+199	Klíčové hnutí	Klíčové hnutí	Klíčové hnutí	KH	1
+200	Demokracie	Demokracie	Demokracie	DK	1
+201	Koalice KDU-ČSL, ČSNS	Koalice KDU-ČSL, ČSNS	Koalice KDU-ČSL, ČSNS		2
+202	Koalice KDU-ČSL, ČSNS, US	Koalice KDU-ČSL, ČSNS, US	Koalice KDU-ČSL, ČSNS, US		3
+203	Koalice KDU-ČSL, SZ, DEU	Koalice KDU-ČSL, SZ, DEU	Koalice KDU-ČSL, SZ, DEU		3
+204	Koalice KDU-ČSL, SZ, NEZ	Koalice KDU-ČSL, SZ, NEZ	Koalice KDU-ČSL, SZ, NEZ		3
+205	Koalice KDU-ČSL, ODA	Koalice KDU-ČSL, ODA	Koalice KDU-ČSL, ODA		2
+206	Koalice KDU-ČSL, ODA, ODS, US	Koalice KDU-ČSL, ODA, ODS, US	Koalice KDU-ČSL, ODA, ODS, US		4
+207	Koalice KDU-ČSL, ODA, DEU	Koalice KDU-ČSL, ODA, DEU	Koalice KDU-ČSL, ODA, DEU		3
+208	Čtyřkoalice	Čtyřkoalice	Čtyřkoalice	4KOALICE	4
+209	Koalice KDU-ČSL, KSČM	Koalice KDU-ČSL, KSČM	Koalice KDU-ČSL, KSČM		2
+210	Koalice KDU-ČSL, ODS	Koalice KDU-ČSL, ODS	Koalice KDU-ČSL, ODS		2
+211	Koalice KDU-ČSL, ODS, US	Koalice KDU-ČSL, ODS, US	Koalice KDU-ČSL, ODS, US		3
+212	Koalice KDU-ČSL, DEU	Koalice KDU-ČSL, DEU	Koalice KDU-ČSL, DEU		2
+213	Koalice KDU-ČSL, DEU, US	Koalice KDU-ČSL, DEU, US	Koalice KDU-ČSL, DEU, US		3
+214	Koalice KDU-ČSL, HSMSMNSJ	Koalice KDU-ČSL, HSMSMNSJ	Koalice KDU-ČSL, HSMSMNSJ		2
+215	Koalice KDU-ČSL, NEZ	Koalice KDU-ČSL, NEZ	Koalice KDU-ČSL, NEZ		2
+216	Koalice KDU-ČSL, US	Koalice KDU-ČSL, US	Koalice KDU-ČSL, US		2
+217	Koalice KDU-ČSL, SOS	Koalice KDU-ČSL, SOS	Koalice KDU-ČSL, SOS		2
+218	Koalice KDU-ČSL, SKS	Koalice KDU-ČSL, SKS	Koalice KDU-ČSL, SKS		2
+219	Koalice ČSNS, SZ, KAN, NEZ	Koalice ČSNS, SZ, KAN, NEZ	Koalice ČSNS, SZ, KAN, NEZ		4
+220	Koalice ČSNS, SZ, DEU	Koalice ČSNS, SZ, DEU	Koalice ČSNS, SZ, DEU		3
+221	Koalice ČSNS, ČSSD	Koalice ČSNS, ČSSD	Koalice ČSNS, ČSSD		2
+222	Koalice ČSNS, ODA	Koalice ČSNS, ODA	Koalice ČSNS, ODA		2
+223	Koalice ČSNS, SŽJ	Koalice ČSNS, SŽJ	Koalice ČSNS, SŽJ		2
+224	Koalice ČSNS, ODS	Koalice ČSNS, ODS	Koalice ČSNS, ODS		2
+225	Koalice ČSNS, DEU	Koalice ČSNS, DEU	Koalice ČSNS, DEU		2
+226	Koalice ČSNS, US	Koalice ČSNS, US	Koalice ČSNS, US		2
+227	Koalice SZ, ČSSD	Koalice SZ, ČSSD	Koalice SZ, ČSSD	SZ+ČSSD	2
+228	Koalice SZ, ODA	Koalice SZ, ODA	Koalice SZ, ODA		2
+229	Koalice SZ, KAN, NEZ	Koalice SZ, KAN, NEZ	Koalice SZ, KAN, NEZ		3
+230	Koalice ČSSD, SŽJ	Koalice ČSSD, SŽJ	Koalice ČSSD, SŽJ		2
+231	Koalice ČSSD, KSČM	Koalice ČSSD, KSČM	Koalice ČSSD, KSČM		2
+232	Koalice ČSSD, ODS	Koalice ČSSD, ODS	Koalice ČSSD, ODS		2
+233	Koalice ČSSD, SDS	Koalice ČSSD, SDS	Koalice ČSSD, SDS		2
+234	Koalice ČSSD, HSMSMNSJ	Koalice ČSSD, HSMSMNSJ	Koalice ČSSD, HSMSMNSJ		2
+235	Koalice ČSSD, SV	Koalice ČSSD, SV	Koalice ČSSD, SV		2
+236	Koalice SPR-RSČ, SDČR	Koalice SPR-RSČ, SDČR	Koalice SPR-RSČ, SDČR		2
+237	Koalice SPR-RSČ, SDČR, MoDS	Koalice SPR-RSČ, SDČR, MODS	Koalice SPR-RSČ, SDČR, MODS		3
+238	Koalice ODA, KAN, DEU	Koalice ODA, KAN, DEU	Koalice ODA, KAN, DEU		3
+239	Koalice ODA, KAN, DEU, US	Koalice ODA, KAN, DEU, US	Koalice ODA, KAN, DEU, US		4
+240	Koalice ODA, ODS	Koalice ODA, ODS	Koalice ODA, ODS		2
+241	Koalice ODA, ODS, DEU	Koalice ODA, ODS, DEU	Koalice ODA, ODS, DEU		3
+242	Koalice ODA, DEU	Koalice ODA, DEU	Koalice ODA, DEU		2
+243	Koalice ODA, NEZ	Koalice ODA, NEZ	Koalice ODA, NEZ		2
+244	Koalice ODA, US	Koalice ODA, US	Koalice ODA, US		2
+245	Koalice ODA, SOS	Koalice ODA, SOS	Koalice ODA, SOS		2
+246	Koalice SŽJ, CAO	Koalice SŽJ, CAO	Koalice SŽJ, CAO		2
+247	Koalice SŽJ, SDS	Koalice SŽJ, SDS	Koalice SŽJ, SDS		2
+248	Koalice KAN, DEU	Koalice KAN, DEU	Koalice KAN, DEU		2
+249	Koalice KAN, DEU, US	Koalice KAN, DEU, US	Koalice KAN, DEU, US		3
+250	Koalice PA, PB, SKS	Koalice PA, PB, SKS	Koalice PA, PB, SKS		3
+251	Koalice KSČM, SDS	Koalice KSČM, SDS	Koalice KSČM, SDS		2
+252	Koalice ODS, DEU	Koalice ODS, DEU	Koalice ODS, DEU		2
+253	Koalice ODS, US	Koalice ODS, US	Koalice ODS, US		2
+254	Koalice DEU, MoDS	Koalice DEU, MoDS	Koalice DEU, MoDS		2
+255	Koalice DEU, US	Koalice DEU, US	Koalice DEU, US		2
+256	MORAVSKÁ KOALICE	MORAVSKÁ KOALICE	MORAVSKÁ KOALICE	MORKOAL	2
+257	Koalice NEZ, US	Koalice NEZ, US	Koalice NEZ, US		2
+258	REPUBLIKÁNI MIROSLAVA SLÁDKA	REPUBLIKÁNI MIROSLAVA SLÁDKA	REPUBLIKÁNI MIROSLAVA SLÁDKA	REPUB-MS	3
+259	Koalice České strany národně sociální a politického hnutí NEZÁVISLÍ	Koal.České str.národ.sociální a pol.hn.NEZÁVISLÍ	K.Čes.str.nár.soc. a NEZÁVISLÍ	ČSNS-NEZ	2
+260	Strana za životní jistoty a Strana zelených	Strana za životní jistoty a Strana zelených	Str.za živ.jist.,Str.zelených	SŽJ-SZ	2
+261	Koalice Pravý blok - Klub angažovaných nestraníků	Koalice Pravý blok - Klub angažovaných nestraníků	K.Pravý blok-Klub angaž.nestr.	PB-KAN	2
+262	PROSPERITA VYSOČINY	PROSPERITA VYSOČINY	PROSPERITA VYSOČINY	PROSPER	2
+263	KOALICE NEPARLAMENTNÍCH STRAN	KOALICE NEPARLAMENTNÍCH STRAN	KOALICE NEPARLAMENTNÍCH STRAN	NEPARLAM	2
+265	Sdružení pro Pardubický kraj	Sdružení pro Pardubický kraj	Sdružení pro Pardubický kraj	SDRUŽ.PK	2
+266	Náš kraj 21	Náš kraj 21	Náš kraj 21	KRAJ21	2
+267	ŠANCE PRO OLOMOUCKÝ KRAJ	ŠANCE PRO OLOMOUCKÝ KRAJ	ŠANCE PRO OLOMOUCKÝ KRAJ	ŠANCEOK	3
+268	Koalice politických stran Volba pro město a Strana pro otevřenou společnost	Koal.pol.str.Volba pro město a Str.pro otevř.spol.	Volba pro město,Str.pro ot.sp.	VPM-OS	2
+269	Koalice Unie pro Evropu a Strany zelených	Koalice Unie pro Evropu a Strany zelených	Unie pro Evropu,Str.zelených	UPE-SZ	2
+270	Koalice KDU-ČSL, US-DEU	Koalice KDU-ČSL, US-DEU	Koalice KDU-ČSL, US-DEU		2
+272	Moravskoslezská koalice	Moravskoslezská koalice	Moravskoslezská koalice	MSLKOAL	2
+273	Pražané Praze - Praha Pražanům	Pražané Praze - Praha Pražanům	Pražané Praze-Praha Pražanům		2
+274	Koalice ED, ODA	Koalice ED, ODA	Koalice ED, ODA	ED,ODA	2
+275	Koalice KDU-ČSL, US-DEU, VPM	Koalice KDU-ČSL, US-DEU, VPM	Koalice KDU-ČSL, US-DEU, VPM		3
+276	Koalice SŽJ, VPM	Koalice SŽJ, VPM	Koalice SŽJ, VPM		2
+277	Koalice MoDS, HSMS, SŽJ	Koalice MoDS, HSMS, SŽJ	Koalice MoDS, HSMS, SŽJ		3
+278	Koalice SNK, VPM	Koalice SNK, VPM	Koalice SNK, VPM		2
+279	Koalice KDU-ČSL, ČSSD	Koalice KDU-ČSL, ČSSD	Koalice KDU-ČSL, ČSSD		2
+280	Koalice KDU-ČSL, SNK	Koalice KDU-ČSL, SNK	Koalice KDU-ČSL, SNK	KDUČSLED	2
+281	Koalice KDU-ČSL, ODA, US-DEU	Koalice KDU-ČSL, ODA, US-DEU	Koalice KDU-ČSL, ODA, US-DEU		3
+282	Koalice US-DEU, SNK	Koalice US-DEU, SNK	Koalice US-DEU, SNK		2
+283	Koalice ČSNS, SOS, VPM	Koalice ČSNS, SOS, VPM	Koalice ČSNS, SOS, VPM		3
+285	Koalice SZ, SNK	Koalice SZ, SNK	Koalice SZ, SNK		2
+286	Koalice ČSSD, US-DEU	Koalice ČSSD, US-DEU	Koalice ČSSD, US-DEU		2
+287	Koalice RMS, SŽJ	Koalice RMS, SŽJ	Koalice RMS, SŽJ		2
+288	Koalice SNK, N	Koalice SNK, N	Koalice SNK, N		2
+289	Koalice US-DEU, ČSNS	Koalice US-DEU, ČSNS	Koalice US-DEU, ČSNS		2
+290	Koalice ODA, CZ	Koalice ODA, CZ	Koalice ODA, CZ		2
+291	Koalice RMS, SDČR, SPR-RSČ	Koalice RMS, SDČR, SPR-RSČ	Koalice RMS, SDČR, SPR-RSČ		3
+292	Koalice SOS, SZ	Koalice SOS, SZ	Koalice SOS, SZ		2
+293	Koalice PB, SZR	Koalice PB, SZR	Koalice PB, SZR		2
+294	Koalice ODA, SNK	Koalice ODA, SNK	Koalice ODA, SNK		2
+295	Koalice SNK, SZ, SOS	Koalice SNK, SZ, SOS	Koalice SNK, SZ, SOS		3
+296	Koalice US-DEU, SZ	Koalice US-DEU, SZ	Koalice US-DEU, SZ		2
+297	Koalice US-DEU, ODA	Koalice US-DEU, ODA	Koalice US-DEU, ODA	USDEUODA	2
+298	Koalice ČSNS, VPM, KAN	Koalice ČSNS, VPM, KAN	Koalice ČSNS, VPM, KAN		3
+299	Koalice CZ, COEX, NEZ, ODA	Koalice CZ, COEX, NEZ, ODA	Koalice CZ, COEX, NEZ, ODA		4
+300	Koalice ČSNS, SV SOS	Koalice ČSNS, SV SOS	Koalice ČSNS, SV SOS		2
+301	Koalice KSČM, SZ	Koalice KSČM, SZ	Kolaice KSČM, SZ		2
+302	Koalice ODS, US-DEU	Koalice ODS, US-DEU	Koalice ODS, US-DEU		2
+303	Koalice KDU-ČSL, SZ	Koalice KDU-ČSL, SZ	Koalice KDU-ČSL, SZ	KDUČSLSZ	2
+304	Koalice US-DEU, ODS, KDU-ČSL	Koalice US-DEU, ODS, KDU-ČSL	Koalice US-DEU, ODS, KDU-ČSL		3
+305	Koalice SZ, ODA, ČSNS, KAN, CZ, N	Koalice SZ, ODA, ČSNS, KAN, CZ, N	Koalice SZ,ODA,ČSNS,KAN,CZ,N		6
+306	Koalice KDU-ČSL, ODS, ČSSD	Koalice KDU-ČSL, ODS, ČSSD	Koalice KDU-ČSL, ODS, ČSSD		3
+307	Koalice ODS, SZ	Koalice ODS, SZ	Koalice ODS, SZ		2
+308	Váš hlas nebude podporovat plané řeči ve zbytečném Senátu, ale celý plat našich senátorů půjde na zdravotnictví obvodu	Váš hlas...plat našich senátorů půjde na zdravotn.	Váš hlas...plat na zdravotn.	Váš hlas	2
+309	Koalice KDU-ČSL, Moravané	Koalice KDU-ČSL, Moravané	Koalice KDU-ČSL, Moravané		2
+310	Národní koalice	Národní koalice	Národní koalice	NARKOAL	2
+311	SNK sdružení nezávislých a Evropští demokraté	SNK sdružení nezávislých a Evropští demokraté	SNK sdruž.nez. a Evropští dem.	SNK-ED	2
+312	Za zájmy Moravy ve sjednocené Evropě	Za zájmy Moravy ve sjednocené Evropě	Za zájmy Moravy ve sjedn.Evr.	HSMSMoDS	2
+313	Unie liberálních demokratů	Unie liberálních demokratů	Unie liberálních demokratů	ULD	4
+314	Unie Prahy 4	Unie Prahy 4	Unie Prahy 4	Unie-P4	3
+315	ZELENÁ pro MORAVU	ZELENÁ pro MORAVU	ZELENÁ pro MORAVU	ZEL_MOR	2
+316	Sdružení nezávislých kandidátů	Sdružení nezávislých kandidátů	Sdružení nezávislých kandidátů	NPM+SNK	2
+317	Koalice pro Středočeský kraj	Koalice pro Středočeský kraj	Koalice pro Středočeský kraj	KOAL_STČ	2
+318	Koalice pro Pardubický kraj	Koalice pro Pardubický kraj	Koalice pro Pardubický kraj	KOAL_PAR	2
+319	NEZÁVISLÍ KANDIDÁTI+STRANA ZA ŽIVOTNÍ JISTOTY+STRANA VENKOVA+STRANA ZDRAVÉHO ROZUMU=SPOJENÉ OBČANSKÉ SÍLY	NK+ST.ZA Ž.JIST.+ST.VENK.+ST.ZDR.ROZ.=SPOJ.OB.SÍLY	NK+SŽJ+SV+SZR=SPOJ.OBČAN.SÍLY	SP.OBČ.S	3
+320	Dělnická strana - akce za snížení poslaneckých platů	Dělnická strana-akce za snížení poslaneckých platů	Děl.str.-za snížení posl.platů	DS_PLATY	2
+321	ZHN a SNK společně	ZHN a SNK společně	ZHN a SNK společně	ZHN+SNK	2
+322	ED, VPM, SOS - Volba pro kraj	ED, VPM, SOS - Volba pro kraj	ED, VPM, SOS - Volba pro kraj	EDVPMSOS	3
+323	Strana za životní jistoty - Strana občanů republiky České	Str.za životní jistoty-Str.občanů republiky České	Str.za ž.j.-Str.obč.rep.České	SŽJ+SORČ	2
+324	Zelení a otevřená společnost	Zelení a otevřená společnost	Zelení a otevřená společnost	SZ+SOS+T	3
+325	Koalice jižní Morava	Koalice jižní Morava	Koalice jižní Morava	JIŽ.MOR.	3
+326	Morava	Morava	Morava	HSMSMoDS	2
+327	Koalice Strany zelených a Strany pro otevřenou společnost	Koal. Str.zelených a Str.pro otevřenou společnost	Str.zel.a Str.pro otevř.spol.	SZ+SOS	2
+328	Koalice Dělnické a Národní strany	Koalice Dělnické a Národní strany	Koal.Dělnické a Národní strany	DS+NS	2
+329	Za prosperitu a jistoty východní Moravy	Za prosperitu a jistoty východní Moravy	Za prosp.a jistoty vých.Moravy	PROSP.VM	3
+330	Evropští demokraté a Nezávislí starostové pro kraj	Evropští demokraté a Nezávislí starostové pro kraj	Evr.demokr.a Nez.star.pro kraj	ED+NSK	2
+331	"Koalice ""Unie pro sport a zdraví - Demokratická regionální strana"""	"Koal.""Unie pro sport a zdraví-Demokr.region.str."""	Unie pro sp.a zdr.-Dem.reg.st.	USZ+DRS	2
+332	Koalice za zrušení Senátu a za obnovení trestu smrti-Vaším hlasem nepodpoříte platy stran.funkcionářů,ale zdravotn.kraje	Vaším hlasem ... pro zdravotnictví našeho kraje	Váš hlas ... pro zdravotnictví	Váš hlas	2
+333	Koalice rozumu a citu za pořádek v naší zemi	Koalice rozumu a citu za pořádek v naší zemi	Koal.rozumu a citu za pořádek	K_ROZCIT	3
+334	Strana pro otevřenou společnost a Hnutí nezávislých za harmonický rozvoj obcí a měst	Str.pro otevř.spol. a Hn.nez.za harm.rozv.ob.a m.	Koalice SOS, HNHRM	SOSHNHRM	2
+335	Strana zelených a US-DEU	Strana zelených a US-DEU	Strana zelených a US-DEU	SZ,USDEU	2
+336	Koalice pro Karlovarský kraj	Koalice pro Karlovarský kraj	Koalice pro Karlovarský kraj	KOAL_KV	2
+337	Vaším hlasem podpoříte financování zdravotnictví našeho kraje a nikoliv plané řeči	Vaším hlasem podpoříte zdravotnictví kraje	Vaším hlasem pro zdravotnictví	Váš hlas	2
+338	Koalice pro Českou republiku	Koalice pro Českou republiku	Koalice pro Českou republiku	Koal_ČR	7
+339	Koalice KDU-ČSL, Nestraníci	Koalice KDU-ČSL, Nestraníci	Koalice KDU-ČSL, Nestraníci		2
+340	Koalice KDU-ČSL, STAN	Koalice KDU-ČSL, STAN	Koalice KDU-ČSL, STAN		2
+341	Koalice SZ, SN	Koalice SZ, SN	Koalice SZ, SN		2
+342	Volba pro lidi	Volba pro lidi	Volba pro lidi	Pro lidi	2
+343	Koalice SNK ED, KDU-ČSL	Koalice SNK ED, KDU-ČSL	Koalice SNK ED, KDU-ČSL	KDUČSLED	2
+344	Koalice KDU-ČSL, SNK ED, Nestraníci	Koalice KDU-ČSL, SNK ED, Nestraníci	Koalice KDU-ČSL,SNK ED,Nestran		3
+345	Moravskoslezská koalice ČMUS, HSMSMNSJ a MNS	Moravskoslezská koalice ČMUS, HSMSMNSJ a MNS	Moravskosl.k.ČMUS,HSMSMNSJ,MNS	MSLK_96	3
+346	Koalice KDU-ČSL, ODA, Nestraníci	Koalice KDU-ČSL, ODA, Nestraníci	Koalice KDU-ČSL, ODA, Nestran.		3
+347	Koalice SNK ED, SN	Koalice SNK ED, SN	Koalice SNK ED, SN		2
+348	Koalice SNK ED, COEX	Koalice SNK ED, COEX	Koalice SNK ED, COEX		2
+349	Koalice KDU-ČSL, VPM	Koalice KDU-ČSL, VPM	Koalice KDU-ČSL, VPM	KDU_VPM	2
+350	Koalice CZ, US-DEU, ODA	Koalice CZ, US-DEU, ODA	Koalice CZ, US-DEU, ODA		3
+351	Sdružení KDU-ČSL, ČSNS, NK	Sdružení KDU-ČSL, ČSNS, NK	Sdružení KDU-ČSL, ČSNS, NK		3
+352	Sdružení KDU-ČSL, KSČM, NK	Sdružení KDU-ČSL, KSČM, NK	Sdružení KDU-ČSL, KSČM, NK		3
+353	Sdružení KDU-ČSL, ODS, NK	Sdružení KDU-ČSL, ODS, NK	Sdružení KDU-ČSL, ODS, NK		3
+354	Sdružení KDU-ČSL, ODS, US, NK	Sdružení KDU-ČSL, ODS, US, NK	Sdružení KDU-ČSL, ODS, US, NK		4
+355	Sdružení KDU-ČSL, NK	Sdružení KDU-ČSL, NK	Sdružení KDU-ČSL, NK		2
+356	Sdružení KDU-ČSL, DEU, NK	Sdružení KDU-ČSL, DEU, NK	Sdružení KDU-ČSL, DEU, NK		3
+357	Sdružení KDU-ČSL, US, NK	Sdružení KDU-ČSL, US, NK	Sdružení KDU-ČSL, US, NK		3
+358	Sdružení KDU-ČSL, SKS, NK	Sdružení KDU-ČSL, SKS, NK	Sdružení KDU-ČSL, SKS, NK		3
+359	Sdružení ČSNS, SZ, KAN, D92, MDS, NEZ, PB, OK, NK	Sdružení ČSNS, SZ, KAN, D92, MDS, NEZ, PB, OK, NK	ČSNS,SZ,KAN,D92,MDS,NEZ,PB,OK,		9
+360	Sdružení ČSNS, ODA, NK	Sdružení ČSNS, ODA, NK	Sdružení ČSNS, ODA, NK		3
+361	Sdružení ČSNS, NK	Sdružení ČSNS, NK	Sdružení ČSNS, NK		2
+362	Sdružení SZ, SŽJ, NK	Sdružení SZ, SŽJ, NK	Sdružení SZ, SŽJ, NK		3
+363	Sdružení SZ, ODS, NK	Sdružení SZ, ODS, NK	Sdružení SZ, ODS, NK		3
+364	Sdružení SZ, NK	Sdružení SZ, NK	Sdružení SZ, NK		2
+365	Sdružení SZ, DEU, NK	Sdružení SZ, DEU, NK	Sdružení SZ, DEU, NK		3
+366	Sdružení SZ, MoDS, NK	Sdružení SZ, MoDS, NK	Sdružení SZ, MoDS, NK		3
+367	Sdružení SZ, SOS, NK	Sdružení SZ, SOS, NK	Sdružení SZ, SOS, NK		3
+368	Sdružení ČSSD, SPR-RSČ, HSMSMNSJ, NK	Sdružení ČSSD, SPR-RSČ, HSMSMNSJ, NK	Sdruž.ČSSD,SPR-RSČ,HSMSMNSJ,NK		4
+369	Sdružení ČSSD, SŽJ, NK	Sdružení ČSSD, SŽJ, NK	Sdružení ČSSD, SŽJ, NK		3
+370	Sdružení ČSSD, SDS, NK	Sdružení ČSSD, SDS, NK	Sdružení ČSSD, SDS, NK		3
+371	Sdružení ČSSD, NK	Sdružení ČSSD, NK	Sdružení ČSSD, NK		2
+372	Sdružení SPR-RSČ, NK	Sdružení SPR-RSČ, NK	Sdružení SPR-RSČ, NK		2
+373	Sdružení ODA, ODS, NK	Sdružení ODA, ODS, NK	Sdružení ODA, ODS, NK		3
+374	Sdružení ODA, NK	Sdružení ODA, NK	Sdružení ODA, NK		2
+375	Sdružení ODA, DEU, NK	Sdružení ODA, DEU, NK	Sdružení ODA, DEU, NK		3
+376	Sdružení ODA, US, NK	Sdružení ODA, US, NK	Sdružení ODA, US, NK		3
+377	Sdružení ODA, VPM, NK	Sdružení ODA, VPM, NK	Sdružení ODA, VPM, NK		3
+378	Sdružení SŽJ, SDS, NK	Sdružení SŽJ, SDS, NK	Sdružení SŽJ, SDS, NK		3
+379	Sdružení SŽJ, NK	Sdružení SŽJ, NK	Sdružení SŽJ, NK		2
+380	Sdružení SŽJ, SOS, NK	Sdružení SŽJ, SOS, NK	Sdružení SŽJ, SOS, NK		3
+381	Sdružení CAO, NK	Sdružení CAO, NK	Sdružení CAO, NK		2
+382	Sdružení KAN, NK	Sdružení KAN, NK	Sdružení KAN, NK		2
+383	Sdružení KAN, DEU, NK	Sdružení KAN, DEU, NK	Sdružení KAN, DEU, NK		3
+384	Sdružení PA, NK	Sdružení PA, NK	Sdružení PA, NK		2
+385	Sdružení KSČM, SDS, NK	Sdružení KSČM, SDS, NK	Sdružení KSČM, SDS, NK		3
+386	Sdružení KSČM, SDS, SV, NK	Sdružení KSČM, SDS, SV, NK	Sdružení KSČM, SDS, SV, NK		4
+387	Sdružení KSČM, NK	Sdružení KSČM, NK	Sdružení KSČM, NK		2
+388	Sdružení KSČM, HSMSMNSJ, NK	Sdružení KSČM, HSMSMNSJ, NK	Sdružení KSČM, HSMSMNSJ, NK		3
+389	Sdružení ODS, NK	Sdružení ODS, NK	Sdružení ODS, NK		2
+390	Sdružení ODS, US, NK	Sdružení ODS, US, NK	Sdružení ODS, US, NK		3
+391	Sdružení MDS, NK	Sdružení MDS, NK	Sdružení MDS, NK		2
+392	Sdružení COEX, NK	Sdružení COEX, NK	Sdružení COEX, NK		2
+393	Sdružení SDS, NK	Sdružení SDS, NK	Sdružení SDS, NK		2
+394	Sdružení ČP, NK	Sdružení ČP, NK	Sdružení ČP, NK		2
+395	Sdružení SDČR, NK	Sdružení SDČR, NK	Sdružení SDČR, NK		2
+396	Sdružení DEU, NK	Sdružení DEU, NK	Sdružení DEU, NK		2
+397	Sdružení DEU, US, NK	Sdružení DEU, US, NK	Sdružení DEU, US, NK		3
+398	Sdružení MoDS, NK	Sdružení MoDS, NK	Sdružení MoDS, NK		2
+399	Sdružení MoDS, HSMSMNSJ, NK	Sdružení MoDS, HSMSMNSJ, NK	Sdružení MoDS, HSMSMNSJ, NK		3
+400	Sdružení Moravané, NK	Sdružení Moravané, NK	Sdružení Moravané, NK		2
+401	Sdružení NEZ, NK	Sdružení NEZ, NK	Sdružení NEZ, NK		2
+402	Sdružení ŽS, NK	Sdružení ŽS, NK	Sdružení ŽS, NK		2
+403	Sdružení SČK, NK	Sdružení SČK, NK	Sdružení SČK, NK		2
+404	Sdružení SV SOS, NK	Sdružení SV SOS, NK	Sdružení SV SOS, NK		2
+405	Sdružení US, NK	Sdružení US, NK	Sdružení US, NK		2
+406	Sdružení US, VPM, NK	Sdružení US, VPM, NK	Sdružení US, VPM, NK		3
+407	Sdružení SOS, NK	Sdružení SOS, NK	Sdružení SOS, NK		2
+408	Sdružení OK, NK	Sdružení OK, NK	Sdružení OK, NK		2
+409	Sdružení SKS, NK	Sdružení SKS, NK	Sdružení SKS, NK		2
+410	Sdružení DRS, NK	Sdružení DRS, NK	Sdružení DRS, NK		2
+411	Sdružení VPM, NK	Sdružení VPM, NK	Sdružení VPM, NK		2
+412	Sdružení SOS, SNK, NK	Sdružení SOS, SNK, NK	Sdružení SOS, SNK, NK		3
+413	Sdružení US-DEU, NK	Sdružení US-DEU, NK	Sdružení US-DEU, NK		2
+414	Sdružení ODA, US-DEU, NK	Sdružení ODA, US-DEU, NK	Sdružení ODA, US-DEU, NK		3
+415	Sdružení KONS, NK	Sdružení KONS, NK	Sdružení KONS, NK		2
+417	Sdružení N, NK	Sdružení N, NK	Sdružení N, NK		2
+418	Sdružení RMS, NK	Sdružení RMS, NK	Sdružení RMS, NK		2
+419	Sdružení SNK ED, NK	Sdružení SNK ED, NK	Sdružení SNK ED, NK		2
+421	Sdružení NSJ, NK	Sdružení NSJ, NK	Sdružení NSJ, NK		2
+422	Sdružení SZ, MoDS, HSMS, SŽJ, NK	Sdružení SZ, MoDS, HSMS, SŽJ, NK	Sdružení SZ,MoDS,HSMS,SŽJ,NK		5
+423	Sdružení SOS, ČSNS, MDS, NK	Sdružení SOS, ČSNS, MDS, NK	Sdružení SOS, ČSNS, MDS, NK		4
+424	Sdružení KDU-ČSL, ČSSD, NK	Sdružení KDU-ČSL, ČSSD, NK	Sdružení KDU-ČSL, ČSSD, NK		3
+425	Sdružení HSMS, VPM, NK	Sdružení HSMS, VPM, NK	Sdružení HSMS, VPM, NK		3
+426	Sdružení DL, NK	Sdružení DL, NK	Sdružení DL, NK		2
+427	Sdružení SD-SN, NK	Sdružení SD-SN, NK	Sdružení SD-SN, NK		2
+428	Sdružení CZ, NK	Sdružení CZ, NK	Sdružení CZ, NK		2
+429	Sdružení ČSSD, US-DEU, NK	Sdružení ČSSD, US-DEU, NK	Sdružení ČSSD, US-DEU, NK		3
+430	Sdružení RMS, SDČR, NK	Sdružení RMS, SDČR, NK	Sdružení RMS, SDČR, NK		3
+431	Sdružení ANEO, NK	Sdružení ANEO, NK	Sdružení ANEO, NK		2
+432	Sdružení MoDS, HSMS, NK	Sdružení MoDS, HSMS, NK	Sdružení MoDS, HSMS, NK		3
+433	Sdružení US-DEU, ODA, ČSNS, NK	Sdružení US-DEU, ODA, ČSNS, NK	Sdružení US-DEU, ODA, ČSNS, NK		4
+434	Sdružení ODA, SZ, NK	Sdružení ODA, SZ, NK	Sdružení ODA, SZ, NK		3
+435	Sdružení US-DEU, KONS, NK	Sdružení US-DEU, KONS, NK	Sdružení US-DEU, KONS, NK		3
+436	Sdružení ED, ODA, CZ, NK	Sdružení ED, ODA, CZ, NK	Sdružení ED, ODA, CZ, NK		4
+437	Sdružení KDU-ČSL, ODA, US-DEU, NK	Sdružení KDU-ČSL, ODA, US-DEU, NK	Sdružení KDU-ČSL,ODA,US-DEU,NK		4
+438	Sdružení MoDS, SŽJ, NK	Sdružení MoDS, SŽJ, NK	Sdružení MoDS, SŽJ, NK		3
+439	Sdružení US-DEU, ČSNS, NK	Sdružení US-DEU, ČSNS, NK	Sdružení US-DEU, ČSNS, NK		3
+440	Sdružení ED, SZ, NK	Sdružení ED, SZ, NK	Sdružení ED, SZ, NK		3
+441	Sdružení ED, ODA, NK	Sdružení ED, ODA, NK	Sdružení ED, ODA, NK		3
+442	Sdružení SZ, ČSNS, SV SOS, NK	Sdružení SZ, ČSNS, SV SOS, NK	Sdružení SZ, ČSNS, SV SOS, NK		4
+443	Sdružení NPM, NK	Sdružení NPM, NK	Sdružení NPM, NK		2
+444	Sdružení SDS, SV SOS, NK	Sdružení SDS, SV SOS, NK	Sdružení SDS, SV SOS, NK		3
+445	Sdružení SZ, SOS, SNK, NK	Sdružení SZ, SOS, SNK, NK	Sdružení SZ, SOS, SNK, NK		4
+446	Sdružení ODS, US-DEU, NK	Sdružení ODS, US-DEU, NK	Sdružení ODS, US-DEU, NK		3
+447	Sdružení Moravané, NK	Sdružení Moravané, NK	Sdružení Moravané, NK		2
+448	Sdružení H.S., NK	Sdružení H.S., NK	Sdružení H.S., NK		2
+449	Sdružení SNK ED, NK	Sdružení SNK ED, NK	Sdružení SNK ED, NK		2
+450	"Sdružení ""LiRA"", NK"	"Sdružení ""LiRA"", NK"	"Sdružení ""LiRA"", NK"		2
+451	Sdružení SvOS, NK	Sdružení SvOS, NK	Sdružení SvOS, NK		2
+452	Sdružení SDŽP, NK	Sdružení SDŽP, NK	Sdružení SDŽP, NK		2
+453	Sdružení ČSNS2005, NK	Sdružení ČSNS2005, NK	Sdružení ČSNS2005, NK		2
+454	Sdružení NEZ/DEM, NK	Sdružení NEZ/DEM, NK	Sdružení NEZ/DEM, NK		2
+455	Sdružení SOS, KDU-ČSL, CZ, US-DEU, VPM, SZR, NK	Sdružení SOS, KDU-ČSL, CZ, US-DEU, VPM, SZR, NK	SOS,KDU,CZ,US-DEU,VPM,SZR,NK		7
+456	Sdružení HNHRM, NK	Sdružení HNHRM, NK	Sdružení HNHRM, NK		2
+457	Sdružení Nestraníci, NK	Sdružení Nestraníci, NK	Sdružení Nestraníci, NK		2
+458	Sdružení SZ, SN, NK	Sdružení SZ, SN, NK	Sdružení SZ, SN, NK		3
+459	Sdružení SZ, US-DEU, NK	Sdružení SZ, US-DEU, NK	Sdružení SZ, US-DEU, NK		3
+460	Sdružení KDU-ČSL, US-DEU, NK	Sdružení KDU-ČSL, US-DEU, NK	Sdružení KDU-ČSL, US-DEU, NK		3
+461	Sdružení NV, NK	Sdružení NV, NK	Sdružení NV, NK		2
+462	Sdružení SNK ED, SD-SN, SOS, SZ, US-DEU, NK	Sdružení SNK ED, SD-SN, SOS, SZ, US-DEU, NK	SNK ED,SD-SN,SOS,SZ,US-DEU,NK		6
+463	Sdružení SN, NK	Sdružení SN, NK	Sdružení SN, NK		2
+464	Sdružení Moravané, NK	Sdružení Moravané, NK	Sdružení Moravané, NK		2
+465	Sdružení DEUČR, NK	Sdružení DEUČR, NK	Sdružení DEUČR, NK		2
+466	Sdružení SNK ED, SZ, NK	Sdružení SNK ED, SZ, NK	Sdružení SNK ED, SZ, NK		3
+467	Sdružení SZ, NEZ, NK	Sdružení SZ, NEZ, NK	Sdružení SZ, NEZ, NK		3
+468	Sdružení MDS, ČSNS2005, SOS, NK	Sdružení MDS, ČSNS2005, SOS, NK	Sdružení MDS,ČSNS2005,SOS,NK		4
+469	Sdružení US-DEU, SNK ED, NK	Sdružení US-DEU, SNK ED, NK	Sdružení US-DEU, SNK ED, NK		3
+470	Sdružení STAN, NK	Sdružení STAN, NK	Sdružení STAN, NK		2
+471	Sdružení ZHN, NK	Sdružení ZHN, NK	Sdružení ZHN, NK		2
+472	Sdružení US-DEU, SOS, NK	Sdružení US-DEU, SOS, NK	Sdružení US-DEU, SOS, NK		3
+473	Sdružení KDU-ČSL, ČSSD, US-DEU, NK	Sdružení KDU-ČSL, ČSSD, US-DEU, NK	Sdruž.KDU-ČSL,ČSSD,US-DEU,NK		4
+474	Sdružení ČSSD, KSČM, NK	Sdružení ČSSD, KSČM, NK	Sdružení ČSSD, KSČM, NK		3
+475	Sdružení SLK, NK	Sdružení SLK, NK	Sdružení SLK, NK		2
+476	Sdružení ALTERNATIVA, NK	Sdružení ALTERNATIVA, NK	Sdružení ALTERNATIVA, NK		2
+477	Sdružení Svobodní, NK	Sdružení Svobodní, NK	Sdružení Svobodní, NK		2
+478	Sdružení Nový Impuls, NK	Sdružení Nový Impuls, NK	Sdružení Nový Impuls, NK		2
+479	Sdružení KDU-ČSL, SZ, NK	Sdružení KDU-ČSL, SZ, NK	Sdružení KDU-ČSL, SZ, NK		3
+480	Sdružení TOP 09, NK	Sdružení TOP 09, NK	Sdružení TOP 09, NK		2
+481	Sdružení Klíčové hnutí, NK	Sdružení Klíčové hnutí, NK	Sdružení KH, NK		2
+482	Sdružení DSZ, NK	Sdružení DSZ, NK	Sdružení DSZ, NK		2
+483	Sdružení SPO, NK	Sdružení SPO, NK	Sdružení SPO, NK		2
+484	Sdružení SZ, VV, NK	Sdružení SZ, VV, NK	Sdružení SZ, VV, NK		3
+485	Sdružení SZ, ALTERNATIVA, Klíčové hnutí, Zelení, NK	Sdruž.SZ, ALTERNATIVA, Klíčové hnutí, Zelení, NK	Sdružení SZ, ALTER, KH, Z, NK		5
+486	Sdružení KDU-ČSL, SNK ED, NK	Sdružení KDU-ČSL, SNK ED, NK	Sdružení KDU-ČSL, SNK ED, NK		3
+487	Sdružení SZ, US-DEU, STAN, TOP 09, NK	Sdružení SZ, US-DEU, STAN, TOP 09, NK	Sdr.SZ,US-DEU,STAN,TOP 09,NK		5
+488	Sdružení Věci veřejné, NK	Sdružení Věci veřejné, NK	Sdružení VV, NK		2
+489	Sdružení Strana Práv Občanů ZEMANOVCI, Strana zelených, NK	Sdruž.Str.Práv Občanů ZEMANOVCI, Str.zelených, NK	Sdružení SPOZ, SZ, NK		3
+490	Sdružení ALTER., KČ, SOS, SNK ED, US-DEU, NK	Sdružení ALTER., KČ, SOS, SNK ED, US-DEU, NK	ALTER.,KČ,SOS,SNK ED,US-DEU,NK		6
+491	Sdružení Věci veřejné, SNK Evropští demokraté, NK	Sdružení Věci veřejné, SNK Evropští demokraté, NK	Sdružení VV, SNK ED, NK		3
+492	Sdružení Severočeši.cz, NK	Sdružení Severočeši, NK	Sdružení Severočeši, NK		2
+493	Sdružení Rozumní, NK	Sdružení Rozumní, NK	Sdružení Rozumní, NK		2
+494	Sdružení KDU-ČSL, US-DEU, SNK ED, NK	Sdružení KDU-ČSL, US-DEU, SNK ED, NK	Sdruž.KDU-ČSL,US-DEU,SNK ED,NK		4
+495	Sdružení TOP 09, STAN, NK	Sdružení TOP 09, STAN, NK	Sdružení TOP 09, STAN, NK		3
+496	"Sdružení ""HOPB"", STAN, NK"	"Sdružení ""HOPB"", STAN, NK"	"Sdružení ""HOPB"", STAN, NK"		3
+497	Sdružení SsČR, NK	Sdružení SsČR, NK	Sdružení SsČR, NK		2
+498	Sdružení SNK ED, SsČR, TOP 09, NK	Sdružení SNK ED, SsČR, TOP 09, NK	Sdružení SNK ED,SsČR,TOP 09,NK		4
+499	Sdružení SLK, KDU-ČSL, NK	Sdružení SLK, KDU-ČSL, NK	Sdružení SLK, KDU-ČSL, NK		3
+500	Sdružení KSČM, FiS, NK	Sdružení KSČM, FiS, NK	Sdružení KSČM, FiS, NK		3
+501	Sdružení TOP 09, SZ, NK	Sdružení TOP 09, SZ, NK	Sdružení TOP 09, SZ, NK		3
+502	Sdružení US-DEU, TOP 09, NK	Sdružení US-DEU, TOP 09, NK	Sdružení US-DEU, TOP 09, NK		3
+503	Sdružení S.cz, STAN, NK	Sdružení S.cz, STAN, NK	Sdružení S.cz, STAN, NK		3
+504	Sdružení FiS, NK	Sdružení FiS, NK	Sdružení FiS, NK		2
+505	Sdružení KDU-ČSL, Nestran., NK	Sdružení KDU-ČSL, Nestran., NK	Sdružení KDU-ČSL,Nestran.,NK		3
+506	Sdružení PVP, NK	Sdružení PVP, NK	Sdružení PVP, NK		2
+507	Sdružení VV, VPM, NK	Sdružení VV, VPM, NK	Sdružení VV, VPM, NK		3
+508	Sdružení Republika, NK	Sdružení Republika, NK	Sdružení Republika, NK		2
+509	Sdružení DOMOV, NK	Sdružení DOMOV, NK	Sdružení DOMOV, NK		2
+510	Sdružení Změna, NK	Sdružení Změna, NK	Sdružení Změna, NK		2
+511	Sdružení ZVUK 12, NK	Sdružení ZVUK 12, NK	Sdružení ZVUK 12, NK		2
+512	Sdružení O.K. strana, NK	Sdružení O.K. strana, NK	Sdružení O.K. strana, NK		2
+513	Sdružení TOP 09, SLK, NK	Sdružení TOP 09, SLK, NK	Sdružení TOP 09, SLK, NK		3
+514	Sdružení ČS, NK	Sdružení ČS, NK	Sdružení ČS, NK		2
+515	Sdružení VČ, NK	Sdružení VČ, NK	Sdružení VČ, NK		2
+516	Sdružení HNPD, NK	Sdružení HNPD, NK	Sdružení HNPD, NK		2
+517	Sdružení SNOP13, NK	Sdružení SNOP13, NK	Sdružení SNOP13, NK		2
+518	Sdružení B10.cz, NK	Sdružení B10.cz, NK	Sdružení B10.cz, NK		2
+519	Sdružení OPAT, NK	Sdružení OPAT, NK	Sdružení OPAT, NK		2
+520	Sdružení Ú, NK	Sdružení Ú, NK	Sdružení Ú, NK		2
+521	Sdružení SZ, Změna, NK	Sdružení SZ, Změna, NK	Sdružení SZ, Změna, NK		3
+522	Sdružení PATRIOTI, NK	Sdružení PATRIOTI, NK	Sdružení PATRIOTI, NK		2
+523	Sdružení ODS, TOP 09, NK	Sdružení ODS, TOP 09, NK	Sdružení ODS, TOP 09, NK		3
+524	Sdružení VPP, NK	Sdružení VPP, NK	Sdružení VPP, NK		2
+525	Sdružení Hora 2014, NK	Sdružení Hora 2014, NK	Sdružení Hora 2014, NK		2
+526	Sdružení Občané, Piráti, NK	Sdružení Občané, Piráti, NK	Sdružení Občané, Piráti, NK		3
+527	Sdružení STO, NK	Sdružení STO, NK	Sdružení STO, NK		2
+528	Sdružení SZ, Moravané, NK	Sdružení SZ, Moravané, NK	Sdružení SZ, Moravané, NK		3
+529	Sdružení SZ, Piráti, NK	Sdružení SZ, Piráti, NK	Sdružení SZ, Piráti, NK		3
+530	Sdružení NOS, NK	Sdružení NOS, NK	Sdružení NOS, NK		2
+531	Sdružení AO, NK	Sdružení AO, NK	Sdružení AO, NK		2
+532	Sdružení ANO 2011, NK	Sdružení ANO 2011, NK	Sdružení ANO 2011, NK		2
+533	Sdružení KSČM, SPO, NK	Sdružení KSČM, SPO, NK	Sdružení KSČM, SPO, NK		3
+534	Sdružení SZ, VPM, STAN, NK	Sdružení SZ, VPM, STAN, NK	Sdružení SZ, VPM, STAN, NK		4
+535	Sdružení KDU-ČSL, Piráti, LES, NK	Sdružení KDU-ČSL, Piráti, LES, NK	Sdružení KDU-ČSL,Piráti,LES,NK		4
+536	Sdružení NS, NK	Sdružení NS, NK	Sdružení NS, NK		2
+537	Sdružení FairPlay, NK	Sdružení FairPlay, NK	Sdružení FairPlay, NK		2
+538	Sdružení ČSR, NK	Sdružení ČSR, NK	Sdružení ČSR, NK		2
+539	Sdružení SZ, Moravané, Změna, NK	Sdružení SZ, Moravané, Změna, NK	Sdružení SZ,Moravané,Změna,NK		4
+540	Sdružení KDU-ČSL, TOP 09, NK	Sdružení KDU-ČSL, TOP 09, NK	Sdružení KDU-ČSL, TOP 09, NK		3
+541	Sdružení Piráti, NK	Sdružení Piráti, NK	Sdružení Piráti, NK		2
+542	Sdružení Svobodní, PATRIOTI, NK	Sdružení Svobodní, PATRIOTI, NK	Sdružení Svobodní,PATRIOTI,NK		3
+543	Sdružení LES, NK	Sdružení LES, NK	Sdružení LES, NK		2
+544	Sdružení HDK, NK	Sdružení HDK, NK	Sdružení HDK, NK		2
+545	Sdružení KPP, NK	Sdružení KPP, NK	Sdružení KPP, NK		2
+546	Sdružení LEV 21, NK	Sdružení LEV 21, NK	Sdružení LEV 21, NK		2
+547	Sdružení VZPk, NK	Sdružení VZPk, NK	Sdružení VZPk, NK		2
+548	Sdružení VIZE, NK	Sdružení VIZE, NK	Sdružení VIZE, NK		2
+549	Sdružení Občané, NK	Sdružení Občané, NK	Sdružení Občané, NK		2
+550	Sdružení NBPLK, NK	Sdružení NBPLK, NK	Sdružení NBPLK, NK		2
+551	Sdružení HPP, NK	Sdružení HPP, NK	Sdružení HPP, NK		2
+552	Sdružení Piráti, LES, NK	Sdružení Piráti, LES, NK	Sdružení Piráti, LES, NK		3
+553	Sdružení KDU-ČSL, KONS, Rozumní, NK	Sdružení KDU-ČSL, KONS, Rozumní, NK	Sdruž. KDU-ČSL,KONS,Rozumní,NK		4
+554	Sdružení Úsvit, NK	Sdružení Úsvit, NK	Sdružení Úsvit, NK		2
+555	Sdružení DOMA, NK	Sdružení DOMA, NK	Sdružení DOMA, NK		2
+556	Sdružení PRO, NK	Sdružení PRO, NK	Sdružení PRO, NK		2
+557	"Sdružení ""Z"", NK"	"Sdružení ""Z"", NK"	"Sdružení ""Z"", NK"		2
+558	Sdružení ŽTB, NK	Sdružení ŽTB, NK	Sdružení ŽTB, NK		2
+559	Sdružení KDU-ČSL, NEZ, NK	Sdružení KDU-ČSL, NEZ, NK	Sdružení KDU-ČSL, NEZ, NK		3
+560	Sdružení SD-SN, VPP, NK	Sdružení SD-SN, VPP, NK	Sdružení SD-SN, VPP, NK		3
+561	Sdružení SNK ED, SD-SN, NK	Sdružení SNK ED, SD-SN, NK	Sdružení SNK ED, SD-SN, NK		3
+562	Sdružení SZ, STAN, Piráti, NK	Sdružení SZ, STAN, Piráti, NK	Sdružení SZ, STAN, Piráti, NK		4
+563	Sdružení ODS, Úsvit, NK	Sdružení ODS, Úsvit, NK	Sdružení ODS, Úsvit, NK		3
+564	Sdružení DOMA, NK	Sdružení DOMA, NK	Sdružení DOMA, NK		2
+565	Sdružení Úsvit, VZ, NK	Sdružení Úsvit, VZ, NK	Sdružení Úsvit, VZ, NK		3
+566	Sdružení PSZ, NK	Sdružení PSZ, NK	Sdružení PSZ, NK		2
+567	Sdružení SZ, STAN, NK	Sdružení SZ, STAN, NK	Sdružení SZ, STAN, NK		3
+568	Sdružení KDU-ČSL, LES, NK	Sdružení KDU-ČSL, LES, NK	Sdružení KDU-ČSL, LES, NK		3
+569	Sdružení KDU-ČSL, SZ, STAN, NK	Sdružení KDU-ČSL, SZ, STAN, NK	Sdružení KDU-ČSL, SZ, STAN, NK		4
+570	Sdružení SZ, LES, NK	Sdružení SZ, LES, NK	Sdružení SZ, LES, NK		3
+571	Sdružení KDU-ČSL, Piráti, NK	Sdružení KDU-ČSL, Piráti, NK	Sdružení KDU-ČSL, Piráti, NK		3
+572	Sdružení KDU-ČSL, ZVUK 12, NK	Sdružení KDU-ČSL, ZVUK 12, NK	Sdružení KDU-ČSL, ZVUK 12, NK		3
+573	Sdružení ČSSD, SPO, NK	Sdružení ČSSD, SPO, NK	Sdružení ČSSD, SPO, NK		3
+574	Sdružení SZ, SNK ED, Piráti, NK	Sdružení SZ, SNK ED, Piráti, NK	Sdružení SZ,SNK ED,Piráti,NK		4
+575	Dělnická strana sociální spravedlnosti - NE diktátu Bruselu!	Koalice DSSS a SPE	Koalice DSSS a SPE	Koal.DSSS a SPE	2
+576	Koalice Strana práce a Nespokojení občané!	Koalice SP a NO!	Koalice SP a NO!	Koal.  SP a NO!	2
+577	Koalice STAN, SLK, TOP 09	Koalice STAN, SLK, TOP 09	Koalice STAN, SLK, TOP 09	STSLKTOP	3
+578	Koalice KDU-ČSL, SZ, OCJJ	Koalice KDU-ČSL, SZ, OCJJ	Koalice KDU-ČSL, SZ, OCJJ	KDUSZOCJ	3
+579	Koalice SZ, HNHRM, B10	Koalice SZ, HNHRM, B10	Koalice SZ, HNHRM, B10	SZHRMB10	3
+580	Koalice Občané, SP, OBČ_2011	Koalice Občané, SP, OBČ_2011	Koalice Občané, SP, OBČ_2011	ObčanéSP	3
+581	Koalice SNK ED a SZSP	Koalice SNK ED a SZSP	Koalice SNK ED a SZSP	NKEDSZSP	2
+582	Koalice SPOZ a Češi	Koalice SPOZ a Češi	Koalice SPOZ a Češi	SPOZČeši	2
+583	Koalice MDS a ZH	Koalice MDS a ZH	Koalice MDS a ZH	MDS+ZH	2
+584	Koalice SZ a Změna	Koalice SZ a Změna	Koalice SZ a Změna	SZ+Změna	2
+585	Koalice KDU-ČSL a SsČR	Koalice KDU-ČSL a SsČR	Koalice KDU-ČSL a SsČR	KDUČSLSs	2
+586	Koalice KONS a SBB	Koalice KONS a SBB	Koalice KONS a SBB	KONS+SBB	2
+587	Koalice KONS a SsČR	Koalice KONS a SsČR	Koalice KONS a SsČR	KONSSsČR	2
+588	Koalice ZHN a Doktoři	Koalice ZHN a Doktoři	Koalice ZHN a Doktoři	ZHN+Dokt	2
+589	Koalice SNK ED a SsČR	Koalice SNK ED a SsČR	Koalice SNK ED a SsČR	SNKED+Ss	2
+590	Koalice SNK ED a ALTERNATIVA	Koalice SNK ED a ALTERNATIVA	Koalice SNK ED a ALTERNATIVA	SNKED+AL	2
+591	Koalice KDU-ČSL, Nestraníci, SsČR	Koalice KDU-ČSL, Nestraníci, SsČR	Koalice KDU-ČSL,Nestran.,SsČR	KDUNesSs	3
+592	Koalice SNK ED a ML	Koalice SNK ED a ML	Koalice SNK ED a ML	SNKED+ML	2
+593	Koalice SNK ED a Nestraníci	Koalice SNK ED a Nestraníci	Koalice SNK ED a Nestraníci	SNKED+NE	2
+594	Koalice KDU-ČSL a NV	Koalice KDU-ČSL a NV	Koalice KDU-ČSL a NV	KDU+NV	2
+595	Koalice KDU-ČSL, SZ, Piráti	Koalice KDU-ČSL, SZ, Piráti	Koalice KDU-ČSL, SZ, Piráti	PirSZKDU	3
+596	"Koalice STAN a ""HOPB"""	"Koalice STAN a ""HOPB"""	"Koalice STAN a ""HOPB"""	STANHOPB	2
+597	Koalice ČSNS a KAN	Koalice ČSNS a KAN	Koalice ČSNS a KAN	ČSNS+KAN	2
+598	Koalice SBB a Suveren.	Koalice SBB a Suveren.	Koalice SBB a Suveren.	SBB+Suv.	2
+599	Koalice KDU-ČSL, SZ, HNHRM	Koalice KDU-ČSL, SZ, HNHRM	Koalice KDU-ČSL, SZ, HNHRM	KDUSZHRM	3
+600	Koalice DSSS a SPE	Koalice DSSS a SPE	Koalice DSSS a SPE	DSSS+SPE	2
+601	Koalice SONOB, Z	Koalice SONOB, Z	Koalice SONOB, Z		2
+602	Koalice DS, PaS	Koalice DS, PaS	Koalice DS, PaS		2
+603	Koalice DRS, KDU-ČSL	Koalice DRS, KDU-ČSL	Koalice DRS, KDU-ČSL		2
+604	Koalice pro Českou republiku	Koalice pro Českou republiku	Koalice pro Českou republiku	Koal_ČR	6
+605	Koalice SNK ED, KONS	Koalice SNK ED, KONS	Koalice SNK ED, KONS		2
+606	Koalice VPM, US-DEU	Koalice VPM, US-DEU	Koalice VPM, US-DEU		2
+607	Koalice US-DEU, SZ, ODA, KONS, ČSNS2005	Koalice US-DEU, SZ, ODA, KONS, ČSNS2005	K.US-DEU,SZ,ODA,KONS,ČSNS2005		5
+608	Koalice KDU-ČSL, USZ	Koalice KDU-ČSL, USZ	Koalice KDU-ČSL, USZ		2
+609	Unie Prahy 4	Unie Prahy 4	Unie Prahy 4	Unie_P4	3
+610	Koalice DEUČR, ODA, KAN	Koalice DEUČR, ODA, KAN	Koalice DEUČR, ODA, KAN		3
+611	Koalice SZ, NV	Koalice SZ,NV	Koalice SZ, NV		2
+612	Koalice SNK ED, NEZ	Koalice SNK ED, NEZ	Koalice SNK ED, NEZ		2
+613	Koalice SZ, US-DEU, SNK ED	Koalice SZ, US-DEU, SNK ED	Koalice SZ, US-DEU, SNK ED		3
+614	Koalice US-DEU, NEZ/DEM	Koalice US-DEU, NEZ/DEM	Koalice US-DEU, NEZ/DEM		2
+615	Koalice KONS, KČ, SP	Koalice KONS, KČ, SP	Koalice KONS, KČ, SP		3
+616	Koalice Z, ODA, US-DEU	Koalice Z, ODA, US-DEU	Koalice Z, ODA, US-DEU		3
+617	Koalice ODS, SNK ED	Koalice ODS, SNK ED	Koalice ODS, SNK ED		2
+618	Koalice ODH, SNK ED	Koalice ODH, SNK ED,	Koalice ODH, SNK ED		2
+619	Koalice SNK ED, US-DEU	Koalice SNK ED, US-DEU	Koalice SNK ED, US-DEU		2
+620	Koalice SOS, SNK ED, Z	Koalice SOS, SNK ED, Z	Koalice SOS, SNK ED, Z		3
+621	"Koalice SOS, ""LiRA"""	"Koalice SOS, ""LiRA"""	"Koalice SOS, ""LiRA"""		2
+622	"""Celý plat senátora budu dávat na zdravotnictví našeho obvodu"""	"""Celý plat senátora na zdravotn.našeho obvodu"""	"""Plat senátora na zdrav.obv."""	Plat_Zdr	2
+623	Koalice NEZ, SZ	Koalice NEZ, SZ	Koalice NEZ, SZ		2
+624	Koalice ČSSD, ČSNS2005	Koalice ČSSD, ČSNS2005	Koalice ČSSD, ČSNS2005		2
+625	Koalice pro Středočeský kraj	Koalice pro Středočeský kraj	Koalice pro Středočeský kraj	KOALSTČ1	2
+626	Národní socialisté a Rozumní	Národní socialisté a Rozumní	Národní socialisté a Rozumní	NS+SZR	2
+627	Koalice pro Liberecký kraj	Koalice pro Liberecký kraj	Koalice pro Liberecký kraj	KOALLIB1	2
+628	"""DOHODA PRO JIŽNÍ MORAVU"""	"""DOHODA PRO JIŽNÍ MORAVU"""	"""DOHODA PRO JIŽNÍ MORAVU"""	DOHODAJM	13
+629	Strana zdravého rozumu a Česká strana národně socialistická	Str.zdravého rozumu a Česká str.národně socialist.	Str.zdr.roz.a Čes.str.nár.soc.	SZR+ČSNS	2
+630	Koalice pro Karlovarský kraj	Koalice pro Karlovarský kraj	Koalice pro Karlovarský kraj	KOAL_KV1	2
+631	Nejen hasiči a živnostníci pro kraj - www.hnpd.cz, www.sdzp.cz	Nejen has.a živn.pro kraj-www.hnpd.cz,www.sdzp.cz	Nejen hasiči a živn.pro kraj	HAS+ŽIVN	2
+632	Dělnická strana - za zrušení poplatků ve zdravotnictví	Dělnická strana-za zrušení poplatků ve zdravotn.	Děln.str.-zrušení popl.ve zdr.	DS_POPL	2
+633	Dohoda pro změnu	Dohoda pro změnu	Dohoda pro změnu	PROZMENU	4
+634	Alternativa 2008	Alternativa 2008	Alternativa 2008	Alt_2008	3
+635	Konzervativní koalice	Konzervativní koalice	Konzervativní koalice	KONZKOAL	4
+636	DOHODA pro Ústecký kraj	DOHODA pro Ústecký kraj	DOHODA pro Ústecký kraj	DOHODA_Ú	2
+637	Koalice nestraníků	Koalice nestraníků	Koalice nestraníků	KOALNEST	2
+638	Osobnosti kraje	Osobnosti kraje	Osobnosti kraje	OSOBNOST	2
+639	Šance pro náš kraj	Šance pro náš kraj	Šance pro náš kraj	ŠANCE_OL	3
+640	STŘEDOČEŠI	STŘEDOČEŠI	STŘEDOČEŠI	STŘEDOČ.	3
+641	Koalice US-DEU a SOS	Koalice US-DEU a SOS	Koalice US-DEU a SOS	USDEUSOS	2
+642	DOHODA pro Vysočinu	DOHODA pro Vysočinu	DOHODA pro Vysočinu	DOHODAVY	3
+643	STAROSTOVÉ A NEZÁVISLÍ a Zlínské hnutí nezávislých	STAROSTOVÉ A NEZÁVISLÍ a Zlínské hnutí nezávislých	STAROSTOVÉ A ZHN	STAN+ZHN	2
+644	Koalice US-DEU, SOS a VPM	Koalice US-DEU, SOS a VPM	Koalice US-DEU, SOS a VPM	USSOSVPM	3
+645	Dělnická strana - NE americkému radaru!	Dělnická strana - NE americkému radaru!	Děln.str.-NE americkému radaru	DS_RADAR	2
+646	Koalice pro Plzeňský kraj	Koalice pro Plzeňský kraj	Koalice pro Plzeňský kraj	KOALPLZ1	2
+647	Koalice pro Královéhradecký kraj	Koalice pro Královéhradecký kraj	Koalice pro Královéhradec.kraj	KOAL_HK1	2
+648	Volba pro kraj	Volba pro kraj	Volba pro kraj	VOLBA_HK	2
+649	Koalice US-DEU a KAN	Koalice US-DEU a KAN	Koalice US-DEU a KAN	USDEUKAN	2
+650	DOHODA pro senátní obvod Kladno	DOHODA pro senátní obvod Kladno	DOHODA pro senát.obvod Kladno	DOHODA30	2
+651	S.O.S. pro kraj	S.O.S. pro kraj	S.O.S. pro kraj	S.O.S.	2
+652	Koalice pro Pardubický kraj	Koalice pro Pardubický kraj	Koalice pro Pardubický kraj	KOALPAR1	3
+653	Nejen hasiči a živnostníci pro kraj	Nejen hasiči a živnostníci pro kraj	Nejen hasiči a živn. pro kraj	HAS+ŽIVN	2
+654	Suverenita	Suverenita	Suverenita	Suveren.	2
+655	Nejen hasiči a živnostníci s učiteli do Evropy - www.hnpd.cz, www.sdzp.cz	Nejen hasiči a živnostníci s učiteli do Evropy	Nejen has. a živn. s uč. do E.	HNDPSDZP	2
+656	"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA"""	"""STAROSTOVÉ A NEZÁVISLÍ - VAŠE ALTERNATIVA"""	"""STAR.A NEZ.-VAŠE ALTERNATIVA"""	VAŠEALT.	2
+657	Koalice Suveren. a NEZ/DEM	Koalice Suveren. a NEZ/DEM	Koalice Suveren. a NEZ/DEM		2
+658	Koalice SOS A ZELENÍ	Koalice SOS A ZELENÍ	Koalice SOS A Z		2
+659	Koalice STAN a TOP 09	Koalice STAN a TOP 09	Koalice STAN a TOP 09	TOP+STAN	2
+660	Koalice TOP 09 a SLK	Koalice TOP 09 a SLK	Koalice TOP 09 a SLK		2
+661	Koalice SPOZ a SZ	Koalice SPOZ a SZ	Koalice SPOZ a SZ		2
+663	Koalice SNK ED a VV	Koalice SNK ED a VV	Koalice SNK ED a VV		2
+664	Koalice VPM a VV	Koalice VPM a VV	Koalice VPM a VV		2
+665	Koalice SZ, US-DEU a TOP 09	Koalice SZ, US-DEU a TOP 09	Koalice SZ, US-DEU a TOP 09		3
+666	Koalice SDŽ a Pražané za svá práva	Koalice SDŽ a Pražané za svá práva	Koalice SDŽ a PP		2
+667	Koalice KDU-ČSL, SZ, KONS, KAN, Suveren., ČPS	Koalice KDU-ČSL,SZ,KONS,KAN,Suveren.,ČPS	KDU-ČSL,SZ,KONS,KAN,Suver.,ČPS		6
+668	Koalice KDU-ČSL a HNHRM	Koalice KDU-ČSL a HNHRM	Koalice KDU-ČSL a HNHRM		2
+669	Koalice SZ, Suveren. a SPOZ	Koalice SZ, Suveren. a SPOZ	Koalice SZ,Suveren. a SPOZ		3
+670	Koalice VV, SZ a NV	Koalice VV, SZ a NV	Koalice VV, SZ a NV		3
+671	Koalice DSZ a SPOZ	Koalice DSZ a SPOZ	Koalice DSZ a SPOZ		2
+672	Koalice VPM a STAN	Koalice VPM a STAN	Koalice VPM a STAN		2
+673	Koalice DRS, TOP 09 a Věci veřejné	Koalice DRS, TOP 09 a Věci veřejné	Koalice DRS, TOP 09 a VV		3
+674	Koalice TOP 09 a Věci veřejné	Koalice TOP 09 a Věci veřejné	Koalice TOP 09 a VV		2
+676	Koalice KDU-ČSL, SZ, NEZ a US-DEU	Koalice KDU-ČSL, SZ, NEZ a US-DEU	Koalice KDU-ČSL,SZ,NEZ,US-DEU		4
+677	Koalice Moravané a ČSNS2005	Koalice Moravané a ČSNS2005	Koalice M a ČSNS		2
+678	Koalice Senátor pro Ostravu	Koalice Senátor pro Ostravu	Koalice Senátor pro Ostravu	ProOstr.	6
+679	Koalice Suveren. a SPOZ	Koalice Suveren. a SPOZ	Koalice Suveren. a SPOZ	Suv.SPOZ	2
+680	Koalice HpT a SZ	Koalice HpT a SZ	Koalice HpT a SZ		2
+681	Koalice NEZÁVISLÍ a SPOZ	Koalice NEZÁVISLÍ a SPOZ	Koalice NEZÁVISLÍ a SPOZ		2
+682	Koalice ČSSD a SPOZ	Koalice ČSSD a SPOZ	Koalice ČSSD a SPOZ		2
+683	Koalice KDU-ČSL, Suveren. a ČPS	Koalice KDU-ČSL, Suveren. a ČPS	Koalice KDU-ČSL, Suveren., ČPS		3
+684	Koalice Svobodní a ČPS	Koalice Svobodní a ČPS	Koalice Svobodní a ČPS		2
+685	Koalice KONS, SZ a US-DEU	Koalice KONS, SZ a US-DEU	Koalice KONS, SZ a US-DEU		3
+686	Koalice HNHRM a TOP 09	Koalice HNHRM a TOP 09	Koalice HNHRM a TOP 09		2
+687	Koalice TOP 09 a ODS	Koalice TOP 09 a ODS	Koalice TOP 09 a ODS		2
+688	Koalice KDU-ČSL a EDS	Koalice KDU-ČSL a EDS	Koalice KDU-ČSL a EDS		2
+689	Koalice Suveren. a DSZ	Koalice Suveren. a DSZ	Koalice Suveren. a DSZ		2
+690	Koalice KDU-ČSL a Zelení	Koalice KDU-ČSL a Zelení	Koalice KDU-ČSL a Zelení		2
+691	Koalice SNK ED a Suveren.	Koalice SNK ED a Suveren.	Koalice SNK ED a Suveren.		2
+692	Koalice SONOB, SOSPRAHA a Občané	Koalice SONOB, SOSPRAHA a Občané	Koalice SONOB,SOSPRAHA,Občané		3
+693	Koalice Moravané a Suveren.	Koalice Moravané a Suveren.	Koalice Moravané a Suveren.		2
+694	Koalice KDU-ČSL a SN	Koalice KDU-ČSL a SN	Koalice KDU-ČSL a SN		2
+695	Koalice ALTER. a Občané	Koalice ALTER. a Občané	Koalice ALTER. a Občané	ALTER+OB	2
+696	Lepší Kladno	Lepší Kladno	Lepší Kladno	OBČ+KAN	2
+697	STAROSTOVÉ A NEZÁVISLÍ s podporou TOP 09	STAROSTOVÉ A NEZÁVISLÍ s podporou TOP 09	STAN s podporou TOP 09	STAN+TOP	2
+698	Koalice Česká strana regionů a VÝCHODOČEŠI	Koalice Česká strana regionů a VÝCHODOČEŠI	Koalice Čes.str.reg. a VÝCHOD.	ČSR+VČ	2
+699	Koalice KDU-ČSL, SZ, ČSSD	Koalice KDU-ČSL, SZ, ČSSD	Koalice KDU-ČSL, SZ, ČSSD	ČSSDKDSZ	3
+700	Koalice SBB a SDŹ	Koalice SBB a SDŽ	Koalice SBB a SDŽ	SBB+SDŽ	2
+701	Doktoři (za uzdravení společnosti)	Doktoři (za uzdravení společnosti)	Doktoři (za uzdravení společ.)	Doktoři	1
+702	ALTERNATIVA	ALTERNATIVA	ALTERNATIVA	ALTERNATIVA	1
+703	Starostové pro Liberecký kraj	Starostové pro Liberecký kraj	Starostové pro Liberecký kraj	SLK	1
+704	Severočeši.cz	Severočeši.cz	Severočeši.cz	S.cz	1
+705	Strana podnikatelů a živnostníků	Strana podnikatelů a živnostníků	Str.podnikatelů a živnostníků	"""SPŽ"""	1
+706	Nezávislí starostové	Nezávislí starostové	Nezávislí starostové	NEST	1
+707	"""Evropští demokraté za právo, morálku a spravedlnost"""	"""Evrop.demokraté za právo, morálku a spravedlnost"""	"""Evr.dem.za pr.,morál.,sprav."""	ED-MS	1
+708	Strana pro ekologii a zdraví	Strana pro ekologii a zdraví	Strana pro ekologii a zdraví	SEZ	1
+709	Evropská demokratická strana	Evropská demokratická strana	Evropská demokratická strana	EDS	1
+710	Liga spořádaných lidí	Liga spořádaných lidí	Liga spořádaných lidí	LSL	1
+711	Lidé a Politika	Lidé a Politika	Lidé a Politika	LAP	1
+712	"""Mírové hnutí 2007"""	"""Mírové hnutí 2007"""	"""Mírové hnutí 2007"""	"""MH-2007"""	1
+713	Libertas.cz	Libertas.cz	Libertas.cz	Libertas	1
+714	Strana svobodných občanů	Strana svobodných občanů	Strana svobodných občanů	Svobodní	1
+715	Demokratická strana zelených	Demokratická strana zelených	Demokratická strana zelených	DSZ	1
+716	Strana soukromníků České republiky	Strana soukromníků České republiky	Strana soukromníků ČR	SsČR	1
+717	ČESKÝ POLITICKÝ STŘED	ČESKÝ POLITICKÝ STŘED	ČESKÝ POLITICKÝ STŘED	ČPST	1
+718	OBČANÉ.CZ	OBČANÉ.CZ	OBČANÉ.CZ	Občané	1
+719	Hnutí Za Telefonování Zdarma	Hnutí Za Telefonování Zdarma	Hnutí Za Telefonování Zdarma	HZTZ.CZ	1
+720	Česká pirátská strana	Česká pirátská strana	Česká pirátská strana	Piráti	1
+721	TOP 09	TOP 09	TOP 09	TOP 09	1
+722	Česká realistická strana	Česká realistická strana	Česká realistická strana	ČRS	1
+723	STOP	STOP	STOP	STOP	1
+724	Strana Práv Občanů	Strana Práv Občanů	Strana Práv Občanů	SPO	1
+725	Victoria.cz	Victoria.cz	Victoria.cz	Victoria	1
+726	Nový Impuls	Nový Impuls	Nový Impuls	NI	1
+727	VOLBA PRO KLADNO	VOLBA PRO KLADNO	VOLBA PRO KLADNO	VPK	1
+728	Pro Třebíč	Pro Třebíč	Pro Třebíč	ProTR	1
+729	POLITIKA TRADIČNÍCH HODNOT	POLITIKA TRADIČNÍCH HODNOT	POLITIKA TRADIČNÍCH HODNOT	PTH	1
+730	Nová budoucnost	Nová budoucnost	Nová budoucnost	NB	1
+731	Ženy za Brod	Ženy za Brod	Ženy za Brod	ŽB	1
+732	NÁŠ HLUČÍN	NÁŠ HLUČÍN	NÁŠ HLUČÍN	NH	1
+733	"""Volím Orlovou"""	"""Volím Orlovou"""	"""Volím Orlovou"""	"""VO"""	1
+734	"""Občané městu, město občanům"""	"""Občané městu, město občanům"""	"""Občané městu, město občanům"""	OMMO	1
+735	Nezávislí pro Bílinu	Nezávislí pro Bílinu	Nezávislí pro Bílinu	N-BÍLINA	1
+736	REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA	REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA	REPUBL.STR.ČECH,MORAVY A SLEZ.	RSČMS	1
+737	ČESKÁ NEZÁVISLÁ	ČESKÁ NEZÁVISLÁ	ČESKÁ NEZÁVISLÁ	"""ČNEZ"""	1
+738	Jundrováci	Jundrováci	Jundrováci	Jundrováci	1
+739	Královopolští patrioti	Královopolští patrioti	Královopolští patrioti	KPP	1
+740	Strana demokratické obnovy	Strana demokratické obnovy	Strana demokratické obnovy	SDeO	1
+741	Hnutí nezávislých za všestranný rozvoj Slatiny	Hnutí nezávislých za všestranný rozvoj Slatiny	Hn.nez.za všestr.rozv.Slatiny	HNVRS	1
+742	Strakonická Veřejnost	Strakonická Veřejnost	Strakonická Veřejnost	SV	1
+743	Hnutí O co jim jde?!	Hnutí O co jim jde?!	Hnutí O co jim jde?!	OCJJ	1
+744	Pražané za svá práva	Pražané za svá práva	Pražané za svá práva	PP	1
+745	Bílinští sociální demokraté	Bílinští sociální demokraté	Bílinští sociální demokraté	BSD	1
+746	OSMA - občané svému městu	OSMA - občané svému městu	OSMA - občané svému městu	OSMA	1
+747	B10.cz	B10.cz	B10.cz	B10.cz	1
+748	Společnost pro Třinec	Společnost pro Třinec	Společnost pro Třinec	SpT	1
+749	Konzervativní aliance 2014	Konzervativní aliance 2014	Konzervativní aliance 2014	KA14	1
+750	Desítka pro domácí	Desítka pro domácí	Desítka pro domácí	DPD	1
+751	VLASTENECKÁ STRANA	VLASTENECKÁ STRANA	VLASTENECKÁ STRANA	VS	1
+752	Zdravé Hradiště	Zdravé Hradiště	Zdravé Hradiště	ZH	1
+753	"""Občané pro Budějovice"""	"""Občané pro Budějovice"""	"""Občané pro Budějovice"""	"""HOPB"""	1
+754	Občanské hnutí pro Mimoň	Občanské hnutí pro Mimoň	Občanské hnutí pro Mimoň	OHM	1
+755	Ostravak	Ostravak	Ostravak	Ostravak	1
+756	Česká strana regionů	Česká strana regionů	Česká strana regionů	ČSR	1
+757	Sdružení nezávislých Holešovska	Sdružení nezávislých Holešovska	Sdruž.nezávislých Holešovska	SNH	1
+758	Naše Beskydy	Naše Beskydy	Naše Beskydy	NBeskydy	1
+759	Česká Suverenita	Česká Suverenita	Česká Suverenita	ČS	1
+760	Lidové fórum	Lidové fórum	Lidové fórum	LF	1
+761	Strana pro Evropu	Strana pro Evropu	Strana pro Evropu	SPE	1
+762	OBČANÉ 2011	OBČANÉ 2011	OBČANÉ 2011	OBČANÉ 2011	1
+763	Strana Globální Odpovědnosti	Strana Globální Odpovědnosti	Strana Globální Odpovědnosti	SGO	1
+764	LEV 21 - Národní socialisté	LEV 21 - Národní socialisté	LEV 21-Národní socialisté	LEV 21	1
+765	Strana přátel časop.MAXIM a jejich přátel za max.svobodu projevu,za vybudování mocné armády a život bez zbyteč.zákazů	Strana přátel časop.MAXIM za maxim.svobodu projevu	Strana přátel časopisu MAXIM	"""MAXIM"""	1
+766	"""JIHOČEŠI 2012"""	"""JIHOČEŠI 2012"""	"""JIHOČEŠI 2012"""	"""JIH 12"""	1
+767	Strana rovných příležitostí	Strana rovných příležitostí	Strana rovných příležitostí	SRP	1
+768	ANO 2011	ANO 2011	ANO 2011	ANO 2011	1
+769	VIZE 2014	VIZE 2014	VIZE 2014	VIZE	1
+770	VÝCHODOČEŠI	VÝCHODOČEŠI	VÝCHODOČEŠI	VČ	1
+771	politické hnutí Změna	politické hnutí Změna	politické hnutí Změna	Změna	1
+772	HOZK - HNUTÍ ODBORNÍKŮ ZA KRAJE	HOZK - HNUTÍ ODBORNÍKŮ ZA KRAJE	HOZK-HNUTÍ ODBORNÍKŮ ZA KRAJE	HOZK	1
+773	Středočeši2012.cz	Středočeši2012.cz	Středočeši2012.cz	S2012	1
+774	PRO	PRO	PRO	PRO	1
+775	ZVUK 12	ZVUK 12	ZVUK 12	ZVUK 12	1
+776	PATRIOTI	PATRIOTI	PATRIOTI	PATRIOTI	1
+777	Strana Češi	Strana Češi	Strana Češi	Češi	1
+778	za Morální Očistu Regionu	za Morální Očistu Regionu	za Morální Očistu Regionu	M.O.R.	1
+779	Starostové pro občany	Starostové pro občany	Starostové pro občany	STO	1
+780	Nová budoucnost pro Liberecký kraj	Nová budoucnost pro Liberecký kraj	Nová budoucn.pro Liberecký kr.	NBPLK	1
+781	Volba lidu 21.století	Volba lidu 21.století	Volba lidu 21.století	VL21	1
+782	Hnutí FAIR PLAY	Hnutí FAIR PLAY	Hnutí FAIR PLAY	FairPlay	1
+783	Česká strana selského rozumu	Česká strana selského rozumu	Česká strana selského rozumu	Čssr	1
+784	Zemští Demokraté	Zemští Demokraté	Zemští Demokraté	ZEDEM	1
+785	PRO Sport a Zdraví	PRO Sport a Zdraví	PRO Sport a Zdraví	PSZ	1
+786	Občanská sounáležitost	Občanská sounáležitost	Občanská sounáležitost	OS	1
+787	Sdružení nezávislých občanů Prahy 13	Sdružení nezávislých občanů Prahy 13	Sdruž.nezáv.občanů Prahy 13	SNOP13	1
+788	Občané České republiky	Občané České republiky	Občané České republiky	OČR	1
+789	Strana důchodců Františka Burdy	Strana důchodců Františka Burdy	Strana důchodců Frant.Burdy	SDFB	1
+790	Pardubice pro lidi	Pardubice pro lidi	Pardubice pro lidi	PPL	1
+791	Pro Prahu	Pro Prahu	Pro Prahu	HPP	1
+792	Úsvit přímé demokracie	Úsvit přímé demokracie	Úsvit přímé demokracie	Úsvit	1
+793	Nový směr	Nový směr	Nový směr	NOS	1
+794	Romská demokratická strana	Romská demokratická strana	Romská demokratická strana	RDS	1
+795	Liberálně ekologická strana	Liberálně ekologická strana	Liberálně ekologická strana	LES	1
+796	Ústečané	Ústečané	Ústečané	Ú	1
+797	Zlín 21	Zlín 21	Zlín 21	Z21	1
+798	Náš Prostějov	Náš Prostějov	Náš Prostějov	NPV	1
+799	Naše Město F-M	Naše Město F-M	Naše Město F-M	NMFM	1
+1001	ANTIBURSÍK - STOP EKOTERORU !	ANTIBURSÍK - STOP EKOTERORU !	ANTIBURSÍK - STOP EKOTERORU !	ABS	1
+1002	Republika	Republika	Republika	Republika	1
+1003	Alternativa pro Plzeň	Alternativa pro Plzeň	Alternativa pro Plzeň	APPlzeň.cz	1
+1004	Patrioti - Volba pro Prahu	Patrioti - Volba pro Prahu	Patrioti - Volba pro Prahu	VPP	1
+1005	evropani.cz	evropani.cz	evropani.cz	evropani	1
+1006	Občanská konzervativní strana	Občanská konzervativní strana	Občanská konzervativní strana	O.K. strana	1
+1007	Hnutí dobrých proměn	Hnutí dobrých proměn	Hnutí dobrých proměn	HDP	1
+1008	Pražané.cz	Pražané.cz	Pražané.cz	Pražané	1
+1009	Jižní Město - náš domov	Jižní Město - náš domov	Jižní Město - náš domov	JM-ND	1
+1010	HNUTÍ SOCIÁLNĚ SLABÝCH	HNUTÍ SOCIÁLNĚ SLABÝCH	HNUTÍ SOCIÁLNĚ SLABÝCH	HSS	1
+1011	Toryové	Toryové	Toryové	TOR	1
+1012	ÚSTECKÉ FÓRUM OBČANŮ	ÚSTECKÉ FÓRUM OBČANŮ	ÚSTECKÉ FÓRUM OBČANŮ	UFO	1
+1013	Politické hnutí OBRODA	Politické hnutí OBRODA	Politické hnutí OBRODA	Obroda	1
+1014	Občané pro Lochotín	Občané pro Lochotín	Občané pro Lochotín	OPL	1
+1015	Občanské hnutí Můj domov	Občanské hnutí Můj domov	Občanské hnutí Můj domov	Můj domov	1
+1016	HRADEČTÍ PATRIOTI strana pro sport, zdraví a kulturu	HRADEČTÍ PATRIOTI strana pro sport,zdraví,kulturu	HRADEČTÍ PATRIOTI	HRAD.PATRIOTI	1
+1017	NOVÝ SEVER	NOVÝ SEVER	NOVÝ SEVER	NS	1
+1018	Politické Hnutí Vítkovice	Politické Hnutí Vítkovice	Politické Hnutí Vítkovice	PHV	1
+1019	SPOLU	SPOLU	SPOLU	SPOLU	1
+1020	Pévéčko	Pévéčko	Pévéčko	PV	1
+1021	Čisté Ústí	Čisté Ústí	Čisté Ústí	ČÚNL	1
+1022	Občané patrioti	Občané patrioti	Občané patrioti	OPAT	1
+1023	PATRIOT 2014	PATRIOT 2014	PATRIOT 2014	PATRIOT 2014	1
+1024	Otevřená radnice	Otevřená radnice	Otevřená radnice	Hora 2014	1
+1025	Ta naše Třebíč	Ta naše Třebíč	Ta naše Třebíč	TnT	1
+1026	"""Žít Brno"""	"""Žít Brno"""	"""Žít Brno"""	ŽTB	1
+1027	Ostravské fórum	Ostravské fórum	Ostravské fórum	OF	1
+1028	Karlovaráci	Karlovaráci	Karlovaráci	KVC	1
+1029	Frýdečané a Místečané	Frýdečané a Místečané	Frýdečané a Místečané	FraM	1
+1030	Podpora občanů	Podpora občanů	Podpora občanů	Podpora	1
+1031	Sdružení občanů Lesné	Sdružení občanů Lesné	Sdružení občanů Lesné	SOL	1
+1032	Mladoboleslavské hnutí nezávislých	Mladoboleslavské hnutí nezávislých	Mladoboleslavské hnutí nezáv.	MBN	1
+1033	Plzeň pro sport	Plzeň pro sport	Plzeň pro sport	PPS	1
+1034	Spravedlivá občanská společnost	Spravedlivá občanská společnost	Spravedlivá občanská společ.	SPOS	1
+1035	SMĚR - česká cesta	SMĚR - česká cesta	SMĚR - česká cesta	SMĚR - CS	1
+1036	Město pro vás	Město pro vás	Město pro vás	MPV	1
+1037	Karviňáci s Adámkem	Karviňáci s Adámkem	Karviňáci s Adámkem	Karviňáci	1
+1038	Kozí alternativa	Kozí alternativa	Kozí alternativa	KOZY	1
+1039	ProOlomouc	ProOlomouc	ProOlomouc	ProOl	1
+1040	JIŘÍ STROBACH - náš starosta	JIŘÍ STROBACH - náš starosta	JIŘÍ STROBACH - náš starosta	JSNS	1
+1041	Společnost proti developerské výstavbě v Prokopském údolí	Společ. proti develop. výstavbě v Prokop. údolí	Společ.proti výst.v Prok.údolí	SPDV	1
+1042	"""Hnutí Praha-Kunratice"""	"""Hnutí Praha-Kunratice"""	"""Hnutí Praha-Kunratice"""	"""HPK"""	1
+1043	NEZÁVISLÍ PRO PRAHU 10 - HNUTÍ PRO LEPŠÍ DESÍTKU	NEZÁVISLÍ PRO PRAHU 10 - HNUTÍ PRO LEPŠÍ DESÍTKU	NEZ.PRO P10-HNUTÍ PRO LEPŠÍ 10	NPP10-HPLD	1
+1044	"""Hradecký demokratický klub"""	"""Hradecký demokratický klub"""	"""Hradecký demokratický klub"""	"""HDK"""	1
+1045	Veřejné zájmy	Veřejné zájmy	Veřejné zájmy	VZ	1
+1046	OBČANÉ SPOLU - NEZÁVISLÍ	OBČANÉ SPOLU - NEZÁVISLÍ	OBČANÉ SPOLU - NEZÁVISLÍ	"""OSN"""	1
+1047	SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ	SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ	SPOLEHNUTÍ-SPOL.HN.ČESKOLIPANŮ	SPOLEHNUTÍ	1
+1048	TŘINÁCTKA	TŘINÁCTKA	TŘINÁCTKA	"""13tka"""	1
+1049	Hradecký demokratický klub	Hradecký demokratický klub	Hradecký demokratický klub	HDK	1
+1050	Koalice KDU-ČSL a Z21	Koalice KDU-ČSL a Z21	Koalice KDU-ČSL a Z21	KDU-ČSL+Z21	2
+1051	RESTART	RESTART	RESTART	RESTART	1
+1052	RESTART 2014	RESTART 2014	RESTART 2014	R2014	1
+1053	Volyně v dolyně	Volyně v dolyně	Volyně v dolyně	VvD	1
+1054	Koalice Rozumní a SSD	Koalice Rozumní a SSD	Koalice Rozumní a SSD		2
+1055	Šance pro Duchcov	Šance pro Duchcov	Šance pro Duchcov	ŠpD	1
+1056	Hnutí občanů Prahy	Hnutí občanů Prahy	Hnutí občanů Prahy	HOP	1
+1057	Koalice SZ a OMMO	Koalice SZ a OMMO	Koalice SZ a OMMO		2
+1058	Koalice KDU-ČSL a TOP09	Koalice KDU-ČSL a TOP09	Koalice KDU-ČSL a TOP09		2
+1059	Koalice ČS a PRO	Koalice ČS a PRO	Koalice ČS a PRO		2
+1060	Koalice Piráti a Změna	Koalice Piráti a Změna	Koalice Piráti a Změna		2
+1061	DOMA	DOMA	DOMA	DOMA	1
+1062	Pro regiony občanům	Pro regiony občanům	Pro regiony občanům	Hnutí PROČ	1
+1063	Moderní společnost	Moderní společnost	Moderní společnost	MODES	1
+1064	Solidarita, Vlast a Zákon	Solidarita, Vlast a Zákon	Solidarita, Vlast a Zákon	SVAZ	1
+1065	PROZMĚNU	PROZMĚNU	PROZMĚNU	PZ	1
+1066	Koalice Piráti a SZ	Koalice Piráti a SZ	Koalice Piráti a SZ	Piráti+SZ	2
+1067	Koalice SZ a Moravané	Koalice SZ a Moravané	Koalice SZ a Moravané		2
+1068	Koalice SZ, NV, Piráti, Změna	Koalice SZ, NV, Piráti, Změna	Koalice SZ, NV, Piráti, Změna		4
+1069	Koalice KDU-ČSL, SZ, STAN	Koalice KDU-ČSL, SZ, STAN	Koalice KDU-ČSL, SZ, STAN		3
+1070	Koalice Svobodní a PRO	Koalice Svobodní a PRO	Koalice Svobodní a PRO		2
+1071	Koalice VpMB a ANO 2011	Koalice VpMB a ANO 2011	Koalice VpMB a ANO 2011		2
+1072	Koalice ND, DSSS, SPE	Koalice ND, DSSS, SPE	Koalice ND, DSSS, SPE		3
+1073	Koalice SsČR a PPL	Koalice SsČR a PPL	Koalice SsČR a PPL		2
+1074	Koalice KDU-ČSL, SZ, TOP 09	Koalice KDU-ČSL, SZ, TOP 09	Koalice KDU-ČSL, SZ, TOP 09		3
+1075	Koalice KDU-ČSL a HPP	Koalice KDU-ČSL a HPP	Koalice KDU-ČSL a HPP		2
+1076	Koalice DPD a HPP	Koalice DPD a HPP	Koalice DPD a HPP		2
+1077	Koalice KDU-ČSL, SZ, HNHRM a B10.cz	Koalice KDU-ČSL, SZ, HNHRM a B10.cz	Koal. KDU-ČSL,SZ,HNHRM,B10.cz	KDU+SZ+HNHR+B10	4
+1078	Koalice ČSNS a ČSNS2005	Koalice ČSNS a ČSNS2005	Koalice ČSNS a ČSNS2005		2
+1079	Koalice SZ, KH, Piráti a Změna	Koalice SZ, KH, Piráti a Změna	Koalice SZ, KH, Piráti a Změna		4
+1080	Koalice SZ, Piráti a Změna	Koalice SZ, Piráti a Změna	Koalice SZ, Piráti a Změna		3
+1081	Koalice SNK ED a Změna	Koalice SNK ED a Změna	Koalice SNK ED a Změna		2
+1082	Koalice KDU-ČSL a KONS	Koalice KDU-ČSL a KONS	Koalice KDU-ČSL a KONS		2
+1083	Koalice SZSP a PSZ	Koalice SZSP a PSZ	Koalice SZSP a PSZ		2
+1084	Sdružení SZ, STAN, Piráti, Změna, NK	Sdružení SZ, STAN, Piráti, Změna, NK	Sdruž. SZ,STAN,Piráti,Změna,NK		5
+1085	Koalice Svobodní a TOP 09	Koalice Svobodní a TOP 09	Koalice Svobodní a TOP 09		2
+1086	Koalice KDU-ČSL a ZVUK 12	Koalice KDU-ČSL a ZVUK 12	Koalice KDU-ČSL a ZVUK 12		2
+1087	Koalice ND a DSSS	Koalice ND a DSSS	Koalice ND a DSSS		2
+1088	"Koalice ""JIH 12"" a PSZ"	"Koalice ""JIH 12"" a PSZ"	"Koalice ""JIH 12"" a PSZ"		2
+1089	Koalice ND a ČHNJ	Koalice ND a ČHNJ	Koalice ND a ČHNJ		2
+1090	Koalice Úsvit a Hora 2014	Koalice Úsvit a Hora 2014	Koalice Úsvit a Hora 2014	Úsvit+Hora 2014	2
+1091	Koalice KDU-ČSL, SZ, Piráti a OCJJ	Koalice KDU-ČSL, SZ, Piráti a OCJJ	Koalice KDU-ČSL,SZ,Piráti,OCJJ		4
+1092	Koalice ODS a KČ	Koalice ODS a KČ	Koalice ODS a KČ	ODS+KČ	2
+1093	Koalice SZ a TOP 09	Koalice SZ a TOP 09	Koalice SZ a TOP 09		2
+1094	Koalice KDU-ČSL a LES	Koalice KDU-ČSL a LES	Koalice KDU-ČSL a LES	KDU-ČSL+LES	2
+1095	Koalice KDU-ČSL a PSS	Koalice KDU-ČSL a PSS	Koalice KDU-ČSL a PSS		2
+1096	Koalice KONS, VV a Republika	Koalice KONS, VV a Republika	Koalice KONS, VV a Republika		3
+1097	Koalice SZ, KONS, SNK ED	Koalice SZ, KONS, SNK ED	Koalice SZ, KONS, SNK ED		3
+1098	Koalice Moravané, LEV 21	Koalice Moravané, LEV 21	Koalice Moravané, LEV 21	Moravané+LEV 21	2
+1099	Koalice VV, Úsvit a Hora 2014	Koalice VV, Úsvit a Hora 2014	Koalice VV, Úsvit a Hora 2014		3
+1100	Koalice SZ, Piráti a B10.cz	Koalice SZ, Piráti a B10.cz	Koalice SZ, Piráti a B10.cz		3
+1101	Koalice ODS a Svobodní	Koalice ODS a Svobodní	Koalice ODS a Svobodní		2
+1102	Koalice DOMOV a Úsvit	Koalice DOMOV a Úsvit	Koalice DOMOV a Úsvit		2
+1103	Koalice KDU-ČSL, SZ, SNK ED	Koalice KDU-ČSL, SZ, SNK ED	Koalice KDU-ČSL, SZ, SNK ED		3
+1104	Koalice KDU-ČSL, IO a STAN	Koalice KDU-ČSL, IO a STAN	Koalice KDU-ČSL, IO a STAN		3
+1105	Koalice ODS a PSZ	Koalice ODS a PSZ	Koalice ODS a PSZ		2
+1106	Koalice VV a Hora 2014	Koalice VV a Hora 2014	Koalice VV a Hora 2014		2
+1107	Koalice ČS a Úsvit	Koalice ČS a Úsvit	Koalice ČS a Úsvit		2
+1108	Sdružení SVAZ, NK	Sdružení SVAZ, NK	Sdružení SVAZ, NK		2
+1109	Sdružení Piráti, Změna, NK	Sdružení Piráti, Změna, NK	Sdružení Piráti, Změna, NK		3
+1110	Sdružení Jundrováci, NK	Sdružení Jundrováci, NK	Sdružení Jundrováci, NK		2
