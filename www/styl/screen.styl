@@ -1,8 +1,35 @@
 @import colors
 @import prefixes
 @import 'components/triangle'
+@import 'components/data-table'
 
 .ig
   @import basics
+  @import InfoBar
+@import Suggester
 .ig
-  background yellow
+  #map
+  .infoBar
+    border-top 3px solid lighten(ColorGreyBg, 40%)
+    border-bottom 3px solid lighten(ColorGreyBg, 40%)
+  #map
+    position absolute
+    top 0px
+    left 0px
+    bottom 0px
+    background white
+    width 100%
+    .layer-selector
+      position absolute
+      padding 7px 12px 9px 7px
+      top 10px
+      left 60px
+      border 2px solid lighten(black, 80%)
+      background white
+      border-radius 4px
+      label
+        float left
+        margin-bottom 2px
+        clear left
+        input
+         margin-right 9px
