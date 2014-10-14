@@ -30,7 +30,7 @@ closeBtn = content.append \a
 tableHeadings =
   * value: ->
       "<span class='mandat mandat-#{it.mandat}'></span>
-      <span class='mandat-text'>#{if it.mandat then 'ano' else 'ne'}</span>"
+      <span class='mandat-text mandat-text-#{it.mandat}'>#{if it.mandat then '✓' else '✗'}</span>"
     name: "Mandát"
   * value: -> parseInt it.hlasu, 10
     sortable: 1
