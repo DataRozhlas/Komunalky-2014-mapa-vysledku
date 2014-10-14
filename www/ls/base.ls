@@ -97,5 +97,3 @@ if window.location.hash
 
 window.onhashchange = ->
   setView window.location.hash
-<~ setTimeout _, 20
-window.ig.displayData ["562998","Blatno",-1,-1,578,164,-1,170,-1,-1,2063,null,null,null,null,null,null,null,null,null,1]

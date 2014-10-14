@@ -59,18 +59,17 @@ map.on \zoomend ->
       ..removeLayer baseLayer
       ..removeLayer labelLayer
     layers.forEach (.layer.setOpacity 1)
-
-layers =
-  * layer: dataLayers["obce-winners"]
-    dataLayer: grid
+currentParty = "winners"
+typy =
+  * typ: "obce"
     name: 'Obce a magistráty'
-  * layer: dataLayers["mcmo-winners"]
-    dataLayer: grid
-    name: 'Obce a magistráty'
+  * typ: "mcmo"
+    name: 'Městské části, obvody'
 
 currentLayer = null
 
-selectLayer = ({layer, dataLayer}) ->
+selectLayer = ->
+  layer = dataLayers["#{window.ig.displayedType}-#{currentParty}"]
   if currentLayer
     lastLayer = currentLayer
     map.removeLayer
@@ -80,23 +79,25 @@ selectLayer = ({layer, dataLayer}) ->
       300
 
   map.addLayer layer
-  currentLayer := {layer, dataLayer}
+  currentLayer := {layer}
 
 
 
 d3.select mapElement .append \div
   ..attr \class \layer-selector
-  ..selectAll \label.item .data layers .enter!append \label
+  ..selectAll \label.item .data typy .enter!append \label
     ..attr \class \item
       ..append \input
         ..attr \type \radio
         ..attr \name \layer
         ..attr \checked (d, i) -> if i == 0 then \checked else void
-        ..on \change selectLayer
+        ..on \change ->
+            window.ig.displayedType := it.typ
+            selectLayer!
       ..append \span
         ..html (.name)
 
 
-selectLayer layers.0
+selectLayer!
 <~ setTimeout _, 50
 map.addLayer grid

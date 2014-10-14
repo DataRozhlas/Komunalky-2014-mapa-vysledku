@@ -65,6 +65,8 @@ window.ig.InfoBar = class InfoBar
     if !obec_volicu
       if nazev in bezKandidatky
         @helpText.html "Obec nesestavila kandidátku"
+      else if data.obce_celkem || data.mcmo_celkem
+        @helpText.html "V obci se do zastupitelstva městské části nevolilo "
       else
         @helpText.html "Vojenský újezd"
     else
