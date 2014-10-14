@@ -73,7 +73,7 @@ window.ig.showKandidatka = (obecId, obecName, okrsekId, filterByParty = null) ->
   obec.sort (a, b) ->
     | b.mandat - a.mandat => that
     | b.hlasu - a.hlasu => that
-    | b.kand_poradi - a.kand_poradi => that
+    | a.kand_poradi - b.kand_poradi => that
   dataTable = new window.ig.DataTable tableContainer, tableHeadings, obec
     ..on \data (filteredData) ->
       displaySubset obecName, filteredData.map (.data)
