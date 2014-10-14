@@ -64,8 +64,6 @@ window.ig.showKandidatka = (obecId, obecName, okrsekId, filterByParty = null) ->
     "Obecní zastupitelstvo, magistrát"
   tableContainer.html ''
   (err, obec) <~ d3.tsv "../data/okrsky_final/#{obecId}_#{okrsekId}-#{typ}.tsv"
-  # console.log obec
-  console.log JSON.stringify obec.0, 1, 2
   for kandidat in obec
     kandidat["hlasu"] = parseInt kandidat["hlasu"], 10
     kandidat["mandat"] = parseInt kandidat["mandat"], 10
