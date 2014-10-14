@@ -28,7 +28,9 @@ closeBtn = content.append \a
         window.top.location.hash = "000000"
 
 tableHeadings =
-  * value: -> "<span class='mandat mandat-#{it.mandat}'></span>"
+  * value: ->
+      "<span class='mandat mandat-#{it.mandat}'></span>
+      <span class='mandat-text'>#{if it.mandat then 'ano' else 'ne'}</span>"
     name: "Mandát"
   * value: -> parseInt it.hlasu, 10
     sortable: 1
@@ -38,7 +40,7 @@ tableHeadings =
     name: "Jméno"
   * value: -> parseInt it.kand_poradi, 10
     sortable: 1
-    name: 'Číslo'
+    name: 'Pořadí na<br>kandidátce'
   * value: ->
       str = it.vstranaZkratka || it.vstranaFull || "Ostatní"
       color = if kostiColors[it.vstranaZkratka] then that else '#aaa'
