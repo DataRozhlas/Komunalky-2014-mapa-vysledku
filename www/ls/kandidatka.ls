@@ -13,7 +13,7 @@ kostiColors =
   "KSČM"     : \#F40000
   "KDU-ČSL"  : \#FEE300
   "SZ"       : \#0FB103
-  "Pirátí"   : \#504E4F
+  "Piráti"   : \#504E4F
   "TOP 09"   : \#B560F3
 tableContainer = content.append \div
   ..attr \class \tableContainer
