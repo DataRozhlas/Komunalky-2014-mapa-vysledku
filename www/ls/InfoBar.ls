@@ -25,7 +25,7 @@ partyNames =
   "ČSSD"
   "KSČM"
   "KDU-ČSL"
-  "SZ"
+  "Zelení"
   "Piráti"
   "TOP 09"
   "Ostatní"

@@ -10,14 +10,25 @@ window.ig.map = map = L.map do
     maxBounds: [[48.4,11.8], [51.2,18.9]]
 dataLayers = {}
 window.ig.displayedType = "obce"
-for party in <[winners ano ods cssd kscm kdu sz top cp]>
-  dataLayers["obce-#{party}"] = L.tileLayer do
-    * "../data/tiles/obce-#{party}-2014/{z}/{x}/{y}.png"
+layerDefs =
+  * id: \winners name: "Vítězové voleb"
+  * id: \ano     name: "ANO 2011"
+  * id: \ods     name: "ODS"
+  * id: \cssd    name: "ČSSD"
+  * id: \kscm    name: "KSČM"
+  * id: \kdu     name: "KDU-ČSL"
+  * id: \sz      name: "Zelení"
+  * id: \top     name: "TOP 09"
+  * id: \cp      name: "Piráti"
+
+for definition in layerDefs
+  dataLayers["obce-#{definition.id}"] = L.tileLayer do
+    * "../data/tiles/obce-#{definition.id}-2014/{z}/{x}/{y}.png"
     * attribution: '<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/" target = "_blank">CC BY-NC-SA 3.0 CZ</a> <a target="_blank" href="http://rozhlas.cz">Rozhlas.cz</a>, data <a target="_blank" href="http://www.volby.cz">ČSÚ</a>'
       zIndex: 2
 
-  dataLayers["mcmo-#{party}"] = L.tileLayer do
-    * "../data/tiles/mcmo-#{party}-2014/{z}/{x}/{y}.png"
+  dataLayers["mcmo-#{definition.id}"] = L.tileLayer do
+    * "../data/tiles/mcmo-#{definition.id}-2014/{z}/{x}/{y}.png"
     * attribution: '<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cz/" target = "_blank">CC BY-NC-SA 3.0 CZ</a> <a target="_blank" href="http://rozhlas.cz">Rozhlas.cz</a>, data <a target="_blank" href="http://www.volby.cz">ČSÚ</a>'
       zIndex: 2
 
@@ -81,10 +92,15 @@ selectLayer = ->
   map.addLayer layer
   currentLayer := {layer}
 
-
-
 d3.select mapElement .append \div
   ..attr \class \layer-selector
+  ..append \select
+    ..on \change ->
+      currentParty := @value
+      selectLayer!
+    ..selectAll \option .data layerDefs .enter!append \option
+      ..html (.name)
+      ..attr \value (.id)
   ..selectAll \label.item .data typy .enter!append \label
     ..attr \class \item
       ..append \input
