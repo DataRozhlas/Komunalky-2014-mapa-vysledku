@@ -42,7 +42,7 @@ tableHeadings =
     sortable: 1
     name: 'Pořadí na<br>kandidátce'
   * value: ->
-      str = it.vstranaZkratka || it.vstranaFull || "Ostatní"
+      str = it.vstranaZkratka || it.vstrnaFull || "Ostatní" # vstrnaFull je typo v datasetu
       color = if kostiColors[it.vstranaZkratka] then that else '#aaa'
       str += "<span class='kost' style='background-color: #color'></span>"
       str
