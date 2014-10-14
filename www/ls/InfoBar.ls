@@ -61,7 +61,7 @@ window.ig.InfoBar = class InfoBar
     parties.sort (a, b) -> b.votes - a.votes
     for party, index in parties => party.index = index
 
-    @container.classed \noData obec_volicu == 0
+    @container.classed \noData !obec_volicu
     if !obec_volicu
       if nazev in bezKandidatky
         @helpText.html "Obec nesestavila kandidátku"
