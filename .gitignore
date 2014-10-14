@@ -18,5 +18,6 @@
 azure-upload-settings.json
 
 /data/csu
-/data/okrsky
+/data/okrsky_final
+/data/shp
 /data/tiles
