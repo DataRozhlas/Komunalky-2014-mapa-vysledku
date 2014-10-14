@@ -85,6 +85,9 @@ window.ig.InfoBar = class InfoBar
   init: (parentElement) ->
     @container = parentElement.append \div
       ..attr \class "infoBar noData"
+    @container.append \img
+      ..attr \src 'https://samizdat.cz/tools/cro-logo.svg'
+      ..attr \class \logo
     @nazev = @container.append \h2
       ..text "Mapa výsledků"
     @helpText = @container.append \span
