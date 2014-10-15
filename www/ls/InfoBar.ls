@@ -75,7 +75,7 @@ window.ig.InfoBar = class InfoBar
     @strany.classed \nesestavila (.nesestavila)
     @stranyPercent.html ->
       if it.nesestavila
-        "Nesestavila kandidátku"
+        "Nikdo nekandidoval"
       else
         "#{percentage it.percent}"
     @stranyHlasu.html -> "#{it.votes} hl."
