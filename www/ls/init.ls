@@ -1,5 +1,5 @@
 window.ig =
-  projectName : "komunalky-14-okrsky-ucast"
+  projectName : "komunalky-14-okrsky-vysledky"
   containers: {}
 
 if not document.querySelector '.ig'
